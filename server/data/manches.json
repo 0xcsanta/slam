@@ -1,0 +1,1856 @@
+{
+ "8": [
+  {
+   "theme": "Grille mystère #1",
+   "rows": 18,
+   "cols": 15,
+   "mots": [
+    {
+     "mot": "COHABITER",
+     "definition": "partager le quotidien",
+     "r": 3,
+     "c": 3,
+     "dir": "H"
+    },
+    {
+     "mot": "SPONGIEUX",
+     "definition": "Très absorbant",
+     "r": 1,
+     "c": 4,
+     "dir": "V"
+    },
+    {
+     "mot": "FLORALIES",
+     "definition": "Rendez-vous des belles plantes",
+     "r": 0,
+     "c": 11,
+     "dir": "V"
+    },
+    {
+     "mot": "ARBITRAGE",
+     "definition": "Source de conflit sur le terrain",
+     "r": 3,
+     "c": 6,
+     "dir": "V"
+    },
+    {
+     "mot": "GROMMELER",
+     "definition": "Faire le bougon",
+     "r": 10,
+     "c": 6,
+     "dir": "H"
+    },
+    {
+     "mot": "ELECTEUR",
+     "definition": "Même muet il a de la voix",
+     "r": 7,
+     "c": 2,
+     "dir": "H"
+    },
+    {
+     "mot": "TAPISSER",
+     "definition": "Faire le mur",
+     "r": 1,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "RESORBER",
+     "definition": "Causer la disparition",
+     "r": 10,
+     "c": 14,
+     "dir": "V"
+    }
+   ]
+  },
+  {
+   "theme": "Grille mystère #2",
+   "rows": 19,
+   "cols": 15,
+   "mots": [
+    {
+     "mot": "COHABITER",
+     "definition": "partager le quotidien",
+     "r": 6,
+     "c": 4,
+     "dir": "H"
+    },
+    {
+     "mot": "ABLATION",
+     "definition": "Une façon de couper court",
+     "r": 6,
+     "c": 7,
+     "dir": "V"
+    },
+    {
+     "mot": "ADJUDANT",
+     "definition": "Partie du corps",
+     "r": 9,
+     "c": 7,
+     "dir": "H"
+    },
+    {
+     "mot": "CRAMPONS",
+     "definition": "Ils adhèrent au foot",
+     "r": 6,
+     "c": 4,
+     "dir": "V"
+    },
+    {
+     "mot": "REUSSITE",
+     "definition": "Espérance de vie des ambitieux",
+     "r": 0,
+     "c": 10,
+     "dir": "V"
+    },
+    {
+     "mot": "IDENTITE",
+     "definition": "Sa pièce porte notre nom",
+     "r": 11,
+     "c": 7,
+     "dir": "H"
+    },
+    {
+     "mot": "EMISSION",
+     "definition": "Elle fait partie du programme",
+     "r": 13,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "INTEGRAL",
+     "definition": "Qui est complet",
+     "r": 11,
+     "c": 12,
+     "dir": "V"
+    }
+   ]
+  },
+  {
+   "theme": "Grille mystère #3",
+   "rows": 15,
+   "cols": 16,
+   "mots": [
+    {
+     "mot": "CHEVRONNE",
+     "definition": "Qui porte des galons",
+     "r": 6,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "SPAGHETTI",
+     "definition": "Ficelle à cuire",
+     "r": 2,
+     "c": 1,
+     "dir": "V"
+    },
+    {
+     "mot": "EXASPERER",
+     "definition": "Pousser à bout",
+     "r": 6,
+     "c": 8,
+     "dir": "V"
+    },
+    {
+     "mot": "MINISTRE",
+     "definition": "Il étudie ses dossiers au cabinet",
+     "r": 4,
+     "c": 6,
+     "dir": "V"
+    },
+    {
+     "mot": "FAUBOURG",
+     "definition": "Ancien quartier populaire",
+     "r": 0,
+     "c": 4,
+     "dir": "V"
+    },
+    {
+     "mot": "GLORIOLE",
+     "definition": "Orgueil de petit coq",
+     "r": 14,
+     "c": 5,
+     "dir": "H"
+    },
+    {
+     "mot": "RESORBER",
+     "definition": "Causer la disparition",
+     "r": 12,
+     "c": 8,
+     "dir": "H"
+    },
+    {
+     "mot": "ESCAPADE",
+     "definition": "Virée pour quelques jours",
+     "r": 8,
+     "c": 5,
+     "dir": "H"
+    }
+   ]
+  },
+  {
+   "theme": "Grille mystère #4",
+   "rows": 13,
+   "cols": 16,
+   "mots": [
+    {
+     "mot": "THEORIQUE",
+     "definition": "Qui sort de la tête",
+     "r": 2,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "EPOUVANTE",
+     "definition": "Episode de la terreur",
+     "r": 2,
+     "c": 2,
+     "dir": "V"
+    },
+    {
+     "mot": "PRELAVAGE",
+     "definition": "juste avant le grand bain",
+     "r": 1,
+     "c": 4,
+     "dir": "V"
+    },
+    {
+     "mot": "ARBITRAGE",
+     "definition": "Source de conflit sur le terrain",
+     "r": 5,
+     "c": 4,
+     "dir": "H"
+    },
+    {
+     "mot": "GRATINER",
+     "definition": "Obtenir un joli fondu",
+     "r": 5,
+     "c": 11,
+     "dir": "V"
+    },
+    {
+     "mot": "SUSURRER",
+     "definition": "Entrer discrètement dans le pavillon",
+     "r": 12,
+     "c": 7,
+     "dir": "H"
+    },
+    {
+     "mot": "EREINTES",
+     "definition": "Bien moulus",
+     "r": 0,
+     "c": 8,
+     "dir": "V"
+    },
+    {
+     "mot": "RHUBARBE",
+     "definition": "Elle peut faire tarte",
+     "r": 1,
+     "c": 8,
+     "dir": "H"
+    }
+   ]
+  },
+  {
+   "theme": "Grille mystère #5",
+   "rows": 15,
+   "cols": 15,
+   "mots": [
+    {
+     "mot": "SILICONER",
+     "definition": "Gonfler la poitrine",
+     "r": 1,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "ILLOGIQUE",
+     "definition": "sans queue, ni tête",
+     "r": 1,
+     "c": 1,
+     "dir": "V"
+    },
+    {
+     "mot": "DESABUSE",
+     "definition": "Qui n'y croit plus",
+     "r": 0,
+     "c": 7,
+     "dir": "V"
+    },
+    {
+     "mot": "ENCOMBRE",
+     "definition": "Victime des envahisseurs",
+     "r": 7,
+     "c": 7,
+     "dir": "H"
+    },
+    {
+     "mot": "RAREMENT",
+     "definition": "Qui n'arrive pas tous les matins",
+     "r": 7,
+     "c": 13,
+     "dir": "V"
+    },
+    {
+     "mot": "EPILOGUE",
+     "definition": "Il a toujours le dernier mot",
+     "r": 9,
+     "c": 1,
+     "dir": "H"
+    },
+    {
+     "mot": "MELANGER",
+     "definition": "Mettre sens dessus dessous",
+     "r": 7,
+     "c": 11,
+     "dir": "V"
+    },
+    {
+     "mot": "FUMIGENE",
+     "definition": "Qui dessine un nuage",
+     "r": 5,
+     "c": 6,
+     "dir": "H"
+    }
+   ]
+  },
+  {
+   "theme": "Grille mystère #6",
+   "rows": 14,
+   "cols": 18,
+   "mots": [
+    {
+     "mot": "SPAGHETTI",
+     "definition": "Ficelle à cuire",
+     "r": 1,
+     "c": 1,
+     "dir": "H"
+    },
+    {
+     "mot": "NIAISERIE",
+     "definition": "Parole qui ne vaut rien",
+     "r": 0,
+     "c": 9,
+     "dir": "V"
+    },
+    {
+     "mot": "REGRETTER",
+     "definition": "Se mordre les doigts",
+     "r": 6,
+     "c": 9,
+     "dir": "H"
+    },
+    {
+     "mot": "EFFARANT",
+     "definition": "Qui fait sensation",
+     "r": 1,
+     "c": 6,
+     "dir": "V"
+    },
+    {
+     "mot": "CONCLURE",
+     "definition": "Mettre un point final",
+     "r": 5,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "DEMETTRE",
+     "definition": "Chasser de sa place",
+     "r": 8,
+     "c": 2,
+     "dir": "H"
+    },
+    {
+     "mot": "REITERER",
+     "definition": "Assurer la reproduction",
+     "r": 6,
+     "c": 12,
+     "dir": "V"
+    },
+    {
+     "mot": "EXIGEANT",
+     "definition": "Très regardant",
+     "r": 6,
+     "c": 16,
+     "dir": "V"
+    }
+   ]
+  },
+  {
+   "theme": "Grille mystère #7",
+   "rows": 11,
+   "cols": 19,
+   "mots": [
+    {
+     "mot": "EGAREMENT",
+     "definition": "folie passagère",
+     "r": 3,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "CONCIERGE",
+     "definition": "Il ne quitte pas sa loge",
+     "r": 1,
+     "c": 7,
+     "dir": "V"
+    },
+    {
+     "mot": "CLIQUETIS",
+     "definition": "Petite musique métallique",
+     "r": 1,
+     "c": 7,
+     "dir": "H"
+    },
+    {
+     "mot": "VELOCITE",
+     "definition": "avec elle, ça ne traîne pas",
+     "r": 0,
+     "c": 12,
+     "dir": "V"
+    },
+    {
+     "mot": "ASTRALES",
+     "definition": "Qui descendent du ciel",
+     "r": 3,
+     "c": 2,
+     "dir": "V"
+    },
+    {
+     "mot": "OREILLER",
+     "definition": "Petite aire de repos",
+     "r": 6,
+     "c": 1,
+     "dir": "H"
+    },
+    {
+     "mot": "DEUXIEME",
+     "definition": "homme d'argent",
+     "r": 2,
+     "c": 4,
+     "dir": "V"
+    },
+    {
+     "mot": "NENUPHAR",
+     "definition": "Belle plante qui sort du bassin",
+     "r": 7,
+     "c": 11,
+     "dir": "H"
+    }
+   ]
+  },
+  {
+   "theme": "Grille mystère #8",
+   "rows": 16,
+   "cols": 16,
+   "mots": [
+    {
+     "mot": "SITUATION",
+     "definition": "Peut faire l'objet d'un retournement",
+     "r": 3,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "ECLAIREUR",
+     "definition": "Il est parti en avant",
+     "r": 0,
+     "c": 4,
+     "dir": "V"
+    },
+    {
+     "mot": "LINGUISTE",
+     "definition": "Expert des vivantes et des mortes",
+     "r": 2,
+     "c": 1,
+     "dir": "V"
+    },
+    {
+     "mot": "ARBITRAGE",
+     "definition": "Source de conflit sur le terrain",
+     "r": 5,
+     "c": 3,
+     "dir": "H"
+    },
+    {
+     "mot": "SEGMENTE",
+     "definition": "Coupe en tranches",
+     "r": 0,
+     "c": 3,
+     "dir": "H"
+    },
+    {
+     "mot": "SONGEURS",
+     "definition": "Bien absorbés",
+     "r": 2,
+     "c": 10,
+     "dir": "V"
+    },
+    {
+     "mot": "MARRAINE",
+     "definition": "Femme qui lance des bouteilles",
+     "r": 8,
+     "c": 8,
+     "dir": "H"
+    },
+    {
+     "mot": "REVERBERE",
+     "definition": "Lampe de nuit",
+     "r": 7,
+     "c": 15,
+     "dir": "V"
+    }
+   ]
+  }
+ ],
+ "10": [
+  {
+   "theme": "Grille mystère #1",
+   "rows": 17,
+   "cols": 17,
+   "mots": [
+    {
+     "mot": "BAVARDAGE",
+     "definition": "Beaucoup de bruit pour rien",
+     "r": 7,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "DECALAGE",
+     "definition": "Petit déplacement",
+     "r": 7,
+     "c": 5,
+     "dir": "V"
+    },
+    {
+     "mot": "CHOUETTE",
+     "definition": "Elle effraie avec ses plumes",
+     "r": 9,
+     "c": 5,
+     "dir": "H"
+    },
+    {
+     "mot": "SHOPPING",
+     "definition": "Lèche-vitrines à Londres",
+     "r": 0,
+     "c": 7,
+     "dir": "V"
+    },
+    {
+     "mot": "MEFIANCE",
+     "definition": "qualité du vigile",
+     "r": 8,
+     "c": 9,
+     "dir": "V"
+    },
+    {
+     "mot": "EREINTER",
+     "definition": "Faire un travail de démolition",
+     "r": 9,
+     "c": 12,
+     "dir": "V"
+    },
+    {
+     "mot": "ATHENIEN",
+     "definition": "il habite près du Parthénon",
+     "r": 15,
+     "c": 6,
+     "dir": "H"
+    },
+    {
+     "mot": "SUPPORTE",
+     "definition": "Offre son soutien",
+     "r": 0,
+     "c": 7,
+     "dir": "H"
+    },
+    {
+     "mot": "INVENTER",
+     "definition": "Faire preuve d'imagination",
+     "r": 11,
+     "c": 9,
+     "dir": "H"
+    },
+    {
+     "mot": "AUREOLER",
+     "definition": "Dessiner un cercle concentrique",
+     "r": 7,
+     "c": 1,
+     "dir": "V"
+    }
+   ]
+  },
+  {
+   "theme": "Grille mystère #2",
+   "rows": 16,
+   "cols": 23,
+   "mots": [
+    {
+     "mot": "TERRESTRE",
+     "definition": "En accord avec le sol",
+     "r": 9,
+     "c": 7,
+     "dir": "H"
+    },
+    {
+     "mot": "INFANTILE",
+     "definition": "Pas vieux pour son âge",
+     "r": 4,
+     "c": 7,
+     "dir": "V"
+    },
+    {
+     "mot": "CHAHUTEUR",
+     "definition": "Responsable de cirque",
+     "r": 7,
+     "c": 5,
+     "dir": "H"
+    },
+    {
+     "mot": "USTENSILE",
+     "definition": "Il est parfois chinois",
+     "r": 6,
+     "c": 15,
+     "dir": "V"
+    },
+    {
+     "mot": "COFINANCE",
+     "definition": "Participe aux frais",
+     "r": 7,
+     "c": 5,
+     "dir": "V"
+    },
+    {
+     "mot": "GLORIETTE",
+     "definition": "Petit pavillon avec jardin",
+     "r": 13,
+     "c": 14,
+     "dir": "H"
+    },
+    {
+     "mot": "NARCISSE",
+     "definition": "Fleur de légende",
+     "r": 5,
+     "c": 7,
+     "dir": "H"
+    },
+    {
+     "mot": "ADHESIVE",
+     "definition": "qui reste en contact",
+     "r": 0,
+     "c": 11,
+     "dir": "V"
+    },
+    {
+     "mot": "TANGIBLE",
+     "definition": "C'est certain",
+     "r": 8,
+     "c": 15,
+     "dir": "H"
+    },
+    {
+     "mot": "ESCAPADE",
+     "definition": "Virée pour quelques jours",
+     "r": 12,
+     "c": 0,
+     "dir": "H"
+    }
+   ]
+  },
+  {
+   "theme": "Grille mystère #3",
+   "rows": 15,
+   "cols": 21,
+   "mots": [
+    {
+     "mot": "SILICONER",
+     "definition": "Gonfler la poitrine",
+     "r": 2,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "GARDIENNE",
+     "definition": "Elle est mise à la porte d'office",
+     "r": 0,
+     "c": 8,
+     "dir": "V"
+    },
+    {
+     "mot": "REVERBERE",
+     "definition": "Lampe de nuit",
+     "r": 5,
+     "c": 7,
+     "dir": "H"
+    },
+    {
+     "mot": "EDITORIAL",
+     "definition": "partie du canard",
+     "r": 5,
+     "c": 10,
+     "dir": "V"
+    },
+    {
+     "mot": "PRELAVAGE",
+     "definition": "juste avant le grand bain",
+     "r": 4,
+     "c": 14,
+     "dir": "V"
+    },
+    {
+     "mot": "ASTRALES",
+     "definition": "Qui descendent du ciel",
+     "r": 1,
+     "c": 8,
+     "dir": "H"
+    },
+    {
+     "mot": "DESABUSE",
+     "definition": "Qui n'y croit plus",
+     "r": 12,
+     "c": 7,
+     "dir": "H"
+    },
+    {
+     "mot": "BASSINES",
+     "definition": "elles forment des cuvettes",
+     "r": 8,
+     "c": 13,
+     "dir": "H"
+    },
+    {
+     "mot": "LIBELLER",
+     "definition": "Formuler par écrit",
+     "r": 2,
+     "c": 2,
+     "dir": "V"
+    },
+    {
+     "mot": "TELEFILM",
+     "definition": "C'est de la pure fiction",
+     "r": 7,
+     "c": 19,
+     "dir": "V"
+    }
+   ]
+  },
+  {
+   "theme": "Grille mystère #4",
+   "rows": 19,
+   "cols": 23,
+   "mots": [
+    {
+     "mot": "SITUATION",
+     "definition": "Peut faire l'objet d'un retournement",
+     "r": 3,
+     "c": 1,
+     "dir": "H"
+    },
+    {
+     "mot": "DEMOTIVER",
+     "definition": "faire baisser la fièvre",
+     "r": 0,
+     "c": 8,
+     "dir": "V"
+    },
+    {
+     "mot": "AVALANCHE",
+     "definition": "grosse chute de neige",
+     "r": 3,
+     "c": 5,
+     "dir": "V"
+    },
+    {
+     "mot": "TENTATION",
+     "definition": "Bête noire de la résistance",
+     "r": 3,
+     "c": 3,
+     "dir": "V"
+    },
+    {
+     "mot": "PETROLIER",
+     "definition": "Son produit est plus ou moins brut",
+     "r": 1,
+     "c": 7,
+     "dir": "H"
+    },
+    {
+     "mot": "PRINCESSE",
+     "definition": "Les profiteurs mangent à ses frais",
+     "r": 11,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "FRAGMENT",
+     "definition": "Bout du morceau",
+     "r": 0,
+     "c": 15,
+     "dir": "V"
+    },
+    {
+     "mot": "EXTRAIRE",
+     "definition": "Prendre une carotte",
+     "r": 5,
+     "c": 15,
+     "dir": "H"
+    },
+    {
+     "mot": "PROUESSE",
+     "definition": "belle performance",
+     "r": 11,
+     "c": 0,
+     "dir": "V"
+    },
+    {
+     "mot": "INESPERE",
+     "definition": "Tombé du ciel",
+     "r": 1,
+     "c": 13,
+     "dir": "V"
+    }
+   ]
+  },
+  {
+   "theme": "Grille mystère #5",
+   "rows": 13,
+   "cols": 18,
+   "mots": [
+    {
+     "mot": "TOLERANCE",
+     "definition": "Ouverture d'esprit",
+     "r": 5,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "ILLOGIQUE",
+     "definition": "sans queue, ni tête",
+     "r": 4,
+     "c": 2,
+     "dir": "V"
+    },
+    {
+     "mot": "FLEURISTE",
+     "definition": "Marchand de couleurs et de parfums",
+     "r": 3,
+     "c": 8,
+     "dir": "V"
+    },
+    {
+     "mot": "EMISSION",
+     "definition": "Elle fait partie du programme",
+     "r": 11,
+     "c": 8,
+     "dir": "H"
+    },
+    {
+     "mot": "NAGEOIRE",
+     "definition": "Accélérateur de turbot",
+     "r": 5,
+     "c": 6,
+     "dir": "V"
+    },
+    {
+     "mot": "GRIMACER",
+     "definition": "Faire des singeries",
+     "r": 4,
+     "c": 4,
+     "dir": "V"
+    },
+    {
+     "mot": "OBSEDANT",
+     "definition": "Qui tient tête",
+     "r": 9,
+     "c": 6,
+     "dir": "H"
+    },
+    {
+     "mot": "ROSERAIE",
+     "definition": "Champ de pétales",
+     "r": 7,
+     "c": 8,
+     "dir": "H"
+    },
+    {
+     "mot": "ACCROCHE",
+     "definition": "fait une suspension",
+     "r": 0,
+     "c": 11,
+     "dir": "V"
+    },
+    {
+     "mot": "LOGEMENT",
+     "definition": "Lieu de séjour",
+     "r": 4,
+     "c": 10,
+     "dir": "H"
+    }
+   ]
+  },
+  {
+   "theme": "Grille mystère #6",
+   "rows": 13,
+   "cols": 17,
+   "mots": [
+    {
+     "mot": "BARRICADE",
+     "definition": "Elle fait barrage",
+     "r": 2,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "TENEBREUX",
+     "definition": "Qui manque de lumière",
+     "r": 1,
+     "c": 8,
+     "dir": "V"
+    },
+    {
+     "mot": "REGRETTER",
+     "definition": "Se mordre les doigts",
+     "r": 2,
+     "c": 2,
+     "dir": "V"
+    },
+    {
+     "mot": "RECENTRER",
+     "definition": "Fuir les extremes",
+     "r": 6,
+     "c": 8,
+     "dir": "H"
+    },
+    {
+     "mot": "LINGUISTE",
+     "definition": "Expert des vivantes et des mortes",
+     "r": 1,
+     "c": 4,
+     "dir": "V"
+    },
+    {
+     "mot": "DEVANCER",
+     "definition": "Se choisir un successeur",
+     "r": 4,
+     "c": 7,
+     "dir": "H"
+    },
+    {
+     "mot": "AEROPORT",
+     "definition": "lieu de débarquement",
+     "r": 5,
+     "c": 15,
+     "dir": "V"
+    },
+    {
+     "mot": "LIBELLER",
+     "definition": "Formuler par écrit",
+     "r": 0,
+     "c": 0,
+     "dir": "V"
+    },
+    {
+     "mot": "INVENTER",
+     "definition": "Faire preuve d'imagination",
+     "r": 3,
+     "c": 11,
+     "dir": "V"
+    },
+    {
+     "mot": "INVESTIR",
+     "definition": "Faire une mise",
+     "r": 1,
+     "c": 13,
+     "dir": "V"
+    }
+   ]
+  },
+  {
+   "theme": "Grille mystère #7",
+   "rows": 15,
+   "cols": 18,
+   "mots": [
+    {
+     "mot": "AROMATISE",
+     "definition": "Qui ne manque pas de saveur",
+     "r": 1,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "DETARTRER",
+     "definition": "Tenter d'avoir de bons tuyaux",
+     "r": 0,
+     "c": 8,
+     "dir": "V"
+    },
+    {
+     "mot": "ENERGIQUE",
+     "definition": "Bien servi en frite",
+     "r": 7,
+     "c": 8,
+     "dir": "H"
+    },
+    {
+     "mot": "TIBETAINS",
+     "definition": "Habitants du toit du monde",
+     "r": 1,
+     "c": 5,
+     "dir": "V"
+    },
+    {
+     "mot": "CONCLURE",
+     "definition": "Mettre un point final",
+     "r": 0,
+     "c": 2,
+     "dir": "V"
+    },
+    {
+     "mot": "EPEPINER",
+     "definition": "Veiller au grain",
+     "r": 7,
+     "c": 10,
+     "dir": "V"
+    },
+    {
+     "mot": "EPIDERME",
+     "definition": "Tissu couleur chair",
+     "r": 7,
+     "c": 16,
+     "dir": "V"
+    },
+    {
+     "mot": "STRESSER",
+     "definition": "Provoquer des tensions",
+     "r": 5,
+     "c": 7,
+     "dir": "H"
+    },
+    {
+     "mot": "RESORBER",
+     "definition": "Causer la disparition",
+     "r": 14,
+     "c": 10,
+     "dir": "H"
+    },
+    {
+     "mot": "CONSTAT",
+     "definition": "Résultat d'examen",
+     "r": 12,
+     "c": 8,
+     "dir": "H"
+    }
+   ]
+  },
+  {
+   "theme": "Grille mystère #8",
+   "rows": 16,
+   "cols": 20,
+   "mots": [
+    {
+     "mot": "RISTOURNE",
+     "definition": "Cadeau de la maison",
+     "r": 2,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "DISTRAIRE",
+     "definition": "Changer les idées",
+     "r": 1,
+     "c": 1,
+     "dir": "V"
+    },
+    {
+     "mot": "LAPIDAIRE",
+     "definition": "Il fait très attention à sa taille",
+     "r": 6,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "CONCIERGE",
+     "definition": "Il ne quitte pas sa loge",
+     "r": 0,
+     "c": 7,
+     "dir": "V"
+    },
+    {
+     "mot": "VERTICAL",
+     "definition": "Qui n'a aucun penchant dans la vie",
+     "r": 8,
+     "c": 6,
+     "dir": "H"
+    },
+    {
+     "mot": "INVASION",
+     "definition": "Occupation de plein air",
+     "r": 4,
+     "c": 7,
+     "dir": "H"
+    },
+    {
+     "mot": "MOCASSIN",
+     "definition": "On y trouve parfois des glands",
+     "r": 0,
+     "c": 5,
+     "dir": "H"
+    },
+    {
+     "mot": "ATHENIEN",
+     "definition": "il habite près du Parthénon",
+     "r": 1,
+     "c": 3,
+     "dir": "V"
+    },
+    {
+     "mot": "ANECDOTE",
+     "definition": "Histoire qui croustille",
+     "r": 8,
+     "c": 12,
+     "dir": "V"
+    },
+    {
+     "mot": "ESTOMPER",
+     "definition": "Gommer les traits",
+     "r": 10,
+     "c": 12,
+     "dir": "H"
+    }
+   ]
+  }
+ ],
+ "12": [
+  {
+   "theme": "Grille mystère #1",
+   "rows": 13,
+   "cols": 25,
+   "mots": [
+    {
+     "mot": "IMITATION",
+     "definition": "copie d'un original",
+     "r": 3,
+     "c": 3,
+     "dir": "H"
+    },
+    {
+     "mot": "EPOUVANTE",
+     "definition": "Episode de la terreur",
+     "r": 1,
+     "c": 10,
+     "dir": "V"
+    },
+    {
+     "mot": "ENTRETENU",
+     "definition": "bien conservé",
+     "r": 1,
+     "c": 10,
+     "dir": "H"
+    },
+    {
+     "mot": "COFINANCE",
+     "definition": "Participe aux frais",
+     "r": 0,
+     "c": 3,
+     "dir": "V"
+    },
+    {
+     "mot": "DIVERSION",
+     "definition": "Opération de détournement",
+     "r": 2,
+     "c": 5,
+     "dir": "V"
+    },
+    {
+     "mot": "INTRUSIF",
+     "definition": "Du genre des envahisseurs",
+     "r": 0,
+     "c": 17,
+     "dir": "V"
+    },
+    {
+     "mot": "RELUQUER",
+     "definition": "se montrer indiscret",
+     "r": 1,
+     "c": 13,
+     "dir": "V"
+    },
+    {
+     "mot": "ADHESIVE",
+     "definition": "qui reste en contact",
+     "r": 8,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "URGENTES",
+     "definition": "Qu'on ne laisse pas refroidir",
+     "r": 4,
+     "c": 17,
+     "dir": "H"
+    },
+    {
+     "mot": "EMBRASSE",
+     "definition": "Fait du bouche à bouche",
+     "r": 4,
+     "c": 20,
+     "dir": "V"
+    },
+    {
+     "mot": "MINISTRE",
+     "definition": "Il étudie ses dossiers au cabinet",
+     "r": 0,
+     "c": 24,
+     "dir": "V"
+    },
+    {
+     "mot": "INVENTER",
+     "definition": "Faire preuve d'imagination",
+     "r": 5,
+     "c": 7,
+     "dir": "V"
+    }
+   ]
+  },
+  {
+   "theme": "Grille mystère #2",
+   "rows": 16,
+   "cols": 22,
+   "mots": [
+    {
+     "mot": "EGAREMENT",
+     "definition": "folie passagère",
+     "r": 3,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "DISTRAIRE",
+     "definition": "Changer les idées",
+     "r": 0,
+     "c": 8,
+     "dir": "V"
+    },
+    {
+     "mot": "CHAHUTEUR",
+     "definition": "Responsable de cirque",
+     "r": 1,
+     "c": 2,
+     "dir": "V"
+    },
+    {
+     "mot": "NAISSANCE",
+     "definition": "Fruit du travail des femmes",
+     "r": 5,
+     "c": 7,
+     "dir": "H"
+    },
+    {
+     "mot": "ATTIRANCE",
+     "definition": "Opération de séduction",
+     "r": 5,
+     "c": 12,
+     "dir": "V"
+    },
+    {
+     "mot": "EPOUVANTE",
+     "definition": "Episode de la terreur",
+     "r": 3,
+     "c": 0,
+     "dir": "V"
+    },
+    {
+     "mot": "EXTORQUER",
+     "definition": "tirer une carotte",
+     "r": 3,
+     "c": 4,
+     "dir": "V"
+    },
+    {
+     "mot": "CONSOEUR",
+     "definition": "Elle appartient aux pairs",
+     "r": 5,
+     "c": 14,
+     "dir": "V"
+    },
+    {
+     "mot": "PARTERRE",
+     "definition": "Public de niveau peu élevé",
+     "r": 11,
+     "c": 2,
+     "dir": "H"
+    },
+    {
+     "mot": "LICHETTE",
+     "definition": "Une larme",
+     "r": 1,
+     "c": 7,
+     "dir": "H"
+    },
+    {
+     "mot": "SUSURRER",
+     "definition": "Entrer discrètement dans le pavillon",
+     "r": 8,
+     "c": 14,
+     "dir": "H"
+    },
+    {
+     "mot": "ESTOMPER",
+     "definition": "Gommer les traits",
+     "r": 8,
+     "c": 20,
+     "dir": "V"
+    }
+   ]
+  },
+  {
+   "theme": "Grille mystère #3",
+   "rows": 19,
+   "cols": 18,
+   "mots": [
+    {
+     "mot": "SITUATION",
+     "definition": "Peut faire l'objet d'un retournement",
+     "r": 5,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "THEORIQUE",
+     "definition": "Qui sort de la tête",
+     "r": 5,
+     "c": 2,
+     "dir": "V"
+    },
+    {
+     "mot": "DECHANTE",
+     "definition": "Tombe de haut",
+     "r": 7,
+     "c": 1,
+     "dir": "H"
+    },
+    {
+     "mot": "EVENTAIL",
+     "definition": "Accessoire qui donne un air",
+     "r": 7,
+     "c": 8,
+     "dir": "V"
+    },
+    {
+     "mot": "PARAFEUR",
+     "definition": "On le présente au directeur",
+     "r": 12,
+     "c": 7,
+     "dir": "H"
+    },
+    {
+     "mot": "COMEDIEN",
+     "definition": "C'est un joueur professionnel",
+     "r": 0,
+     "c": 6,
+     "dir": "V"
+    },
+    {
+     "mot": "CROISEUR",
+     "definition": "il va et vient en mer",
+     "r": 0,
+     "c": 6,
+     "dir": "H"
+    },
+    {
+     "mot": "SOMMAIRE",
+     "definition": "Un peu simple",
+     "r": 0,
+     "c": 10,
+     "dir": "V"
+    },
+    {
+     "mot": "INSOMNIE",
+     "definition": "Mauvais jeu d'éveil",
+     "r": 5,
+     "c": 10,
+     "dir": "H"
+    },
+    {
+     "mot": "INVENTER",
+     "definition": "Faire preuve d'imagination",
+     "r": 5,
+     "c": 16,
+     "dir": "V"
+    },
+    {
+     "mot": "PRESAGER",
+     "definition": "Tirer des plans sur la comète",
+     "r": 11,
+     "c": 14,
+     "dir": "V"
+    },
+    {
+     "mot": "TAPENADE",
+     "definition": "On en fait des tartines à l'apéritif",
+     "r": 11,
+     "c": 10,
+     "dir": "V"
+    }
+   ]
+  },
+  {
+   "theme": "Grille mystère #4",
+   "rows": 16,
+   "cols": 21,
+   "mots": [
+    {
+     "mot": "DEAMBULER",
+     "definition": "Marcher vers un inconnu",
+     "r": 2,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "ROYALISTE",
+     "definition": "Il lutte pour la survie des dauphins",
+     "r": 2,
+     "c": 8,
+     "dir": "V"
+    },
+    {
+     "mot": "PRELAVAGE",
+     "definition": "juste avant le grand bain",
+     "r": 0,
+     "c": 1,
+     "dir": "V"
+    },
+    {
+     "mot": "MINIGOLF",
+     "definition": "parcours plein d'obstacles",
+     "r": 2,
+     "c": 3,
+     "dir": "V"
+    },
+    {
+     "mot": "UPPERCUT",
+     "definition": "Poing levé",
+     "r": 2,
+     "c": 5,
+     "dir": "V"
+    },
+    {
+     "mot": "ATTESTER",
+     "definition": "Témoigner sur l'honneur",
+     "r": 5,
+     "c": 8,
+     "dir": "H"
+    },
+    {
+     "mot": "URGENTES",
+     "definition": "Qu'on ne laisse pas refroidir",
+     "r": 4,
+     "c": 15,
+     "dir": "V"
+    },
+    {
+     "mot": "MINISTRE",
+     "definition": "Il étudie ses dossiers au cabinet",
+     "r": 8,
+     "c": 13,
+     "dir": "H"
+    },
+    {
+     "mot": "COLLEGUE",
+     "definition": "On le fréquente toute la semaine",
+     "r": 1,
+     "c": 11,
+     "dir": "V"
+    },
+    {
+     "mot": "HABITUDE",
+     "definition": "Pli qui a du mal à partir",
+     "r": 4,
+     "c": 18,
+     "dir": "V"
+    },
+    {
+     "mot": "MARRAINE",
+     "definition": "Femme qui lance des bouteilles",
+     "r": 8,
+     "c": 13,
+     "dir": "V"
+    },
+    {
+     "mot": "BURNOUS",
+     "definition": "Dans les affaires étrangères",
+     "r": 14,
+     "c": 10,
+     "dir": "H"
+    }
+   ]
+  },
+  {
+   "theme": "Grille mystère #5",
+   "rows": 14,
+   "cols": 22,
+   "mots": [
+    {
+     "mot": "CEREALIER",
+     "definition": "Il transforme son blé en blé",
+     "r": 1,
+     "c": 3,
+     "dir": "H"
+    },
+    {
+     "mot": "ASSOUPLIR",
+     "definition": "Apporter de la tendresse",
+     "r": 1,
+     "c": 7,
+     "dir": "V"
+    },
+    {
+     "mot": "ASPHALTER",
+     "definition": "mettre un ruban noir",
+     "r": 3,
+     "c": 6,
+     "dir": "H"
+    },
+    {
+     "mot": "CATALOGUE",
+     "definition": "Il fait l'inventaire",
+     "r": 1,
+     "c": 3,
+     "dir": "V"
+    },
+    {
+     "mot": "DENATURER",
+     "definition": "Renverser l'état",
+     "r": 0,
+     "c": 10,
+     "dir": "V"
+    },
+    {
+     "mot": "REGLETTE",
+     "definition": "Petit instrument de mesure",
+     "r": 3,
+     "c": 14,
+     "dir": "V"
+    },
+    {
+     "mot": "OBJECTER",
+     "definition": "Repousser les avances",
+     "r": 9,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "MARBRIER",
+     "definition": "Il a de la veine dans sa carrière",
+     "r": 6,
+     "c": 1,
+     "dir": "V"
+    },
+    {
+     "mot": "EXTRAIRE",
+     "definition": "Prendre une carotte",
+     "r": 4,
+     "c": 14,
+     "dir": "H"
+    },
+    {
+     "mot": "HUGUENOT",
+     "definition": "Vieux protestant",
+     "r": 0,
+     "c": 21,
+     "dir": "V"
+    },
+    {
+     "mot": "SALAISON",
+     "definition": "Famille d'andouilles",
+     "r": 3,
+     "c": 18,
+     "dir": "V"
+    },
+    {
+     "mot": "SELECTIF",
+     "definition": "Le tri l'est toujours",
+     "r": 12,
+     "c": 0,
+     "dir": "H"
+    }
+   ]
+  },
+  {
+   "theme": "Grille mystère #6",
+   "rows": 15,
+   "cols": 20,
+   "mots": [
+    {
+     "mot": "ESCROQUER",
+     "definition": "Etre responsable d'une exploitation",
+     "r": 1,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "RETENTION",
+     "definition": "garde prolongée",
+     "r": 1,
+     "c": 3,
+     "dir": "V"
+    },
+    {
+     "mot": "RECENTRER",
+     "definition": "Fuir les extremes",
+     "r": 1,
+     "c": 8,
+     "dir": "V"
+    },
+    {
+     "mot": "LINGUISTE",
+     "definition": "Expert des vivantes et des mortes",
+     "r": 5,
+     "c": 6,
+     "dir": "H"
+    },
+    {
+     "mot": "DECALAGE",
+     "definition": "Petit déplacement",
+     "r": 0,
+     "c": 0,
+     "dir": "V"
+    },
+    {
+     "mot": "GRISERIE",
+     "definition": "Effet produit par le succès",
+     "r": 7,
+     "c": 7,
+     "dir": "H"
+    },
+    {
+     "mot": "DISCORDE",
+     "definition": "Sa pomme est pleine de pépins",
+     "r": 3,
+     "c": 5,
+     "dir": "H"
+    },
+    {
+     "mot": "IDOLATRE",
+     "definition": "chéri de ses fans",
+     "r": 7,
+     "c": 13,
+     "dir": "V"
+    },
+    {
+     "mot": "PEDICURE",
+     "definition": "Spécialiste des plantes",
+     "r": 14,
+     "c": 12,
+     "dir": "H"
+    },
+    {
+     "mot": "ELABORER",
+     "definition": "Travailler à la confection",
+     "r": 10,
+     "c": 12,
+     "dir": "H"
+    },
+    {
+     "mot": "BELEMENT",
+     "definition": "Expression du troupeau",
+     "r": 5,
+     "c": 18,
+     "dir": "V"
+    },
+    {
+     "mot": "BARREAU",
+     "definition": "Degré de l'échelle",
+     "r": 9,
+     "c": 5,
+     "dir": "H"
+    }
+   ]
+  },
+  {
+   "theme": "Grille mystère #7",
+   "rows": 21,
+   "cols": 16,
+   "mots": [
+    {
+     "mot": "AGRESSION",
+     "definition": "Attentat à la douceur",
+     "r": 7,
+     "c": 1,
+     "dir": "H"
+    },
+    {
+     "mot": "REENTENDU",
+     "definition": "Ouï pour la deuxième fois",
+     "r": 7,
+     "c": 3,
+     "dir": "V"
+    },
+    {
+     "mot": "MANIEMENT",
+     "definition": "Prise en main",
+     "r": 6,
+     "c": 1,
+     "dir": "V"
+    },
+    {
+     "mot": "RECENTRER",
+     "definition": "Fuir les extremes",
+     "r": 12,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "OBSCURITE",
+     "definition": "Situation à éclaircir",
+     "r": 7,
+     "c": 8,
+     "dir": "V"
+    },
+    {
+     "mot": "REVEILLER",
+     "definition": "sonner les matines",
+     "r": 12,
+     "c": 6,
+     "dir": "V"
+    },
+    {
+     "mot": "ACARIATRE",
+     "definition": "carrément méchante, jamais contente",
+     "r": 10,
+     "c": 7,
+     "dir": "H"
+    },
+    {
+     "mot": "DIGICODE",
+     "definition": "On lui tape dessus à l'entrée",
+     "r": 9,
+     "c": 11,
+     "dir": "V"
+    },
+    {
+     "mot": "HUGUENOT",
+     "definition": "Vieux protestant",
+     "r": 6,
+     "c": 15,
+     "dir": "V"
+    },
+    {
+     "mot": "INVESTIR",
+     "definition": "Faire une mise",
+     "r": 19,
+     "c": 3,
+     "dir": "H"
+    },
+    {
+     "mot": "SERENADE",
+     "definition": "Elle se donne à la nuit tombée",
+     "r": 15,
+     "c": 5,
+     "dir": "H"
+    },
+    {
+     "mot": "BRADERIE",
+     "definition": "A Lille, on y fait la foire",
+     "r": 0,
+     "c": 4,
+     "dir": "V"
+    }
+   ]
+  },
+  {
+   "theme": "Grille mystère #8",
+   "rows": 17,
+   "cols": 20,
+   "mots": [
+    {
+     "mot": "IMITATION",
+     "definition": "copie d'un original",
+     "r": 0,
+     "c": 3,
+     "dir": "H"
+    },
+    {
+     "mot": "MANIPULER",
+     "definition": "Tirer les ficelles",
+     "r": 0,
+     "c": 4,
+     "dir": "V"
+    },
+    {
+     "mot": "ALUMINIUM",
+     "definition": "Feuille d'argent",
+     "r": 0,
+     "c": 7,
+     "dir": "V"
+    },
+    {
+     "mot": "ILLUSION",
+     "definition": "Trompe l'oeil",
+     "r": 6,
+     "c": 2,
+     "dir": "H"
+    },
+    {
+     "mot": "INVASION",
+     "definition": "Occupation de plein air",
+     "r": 4,
+     "c": 7,
+     "dir": "H"
+    },
+    {
+     "mot": "SUFFRAGE",
+     "definition": "C'est la voix de l'opinion",
+     "r": 4,
+     "c": 11,
+     "dir": "V"
+    },
+    {
+     "mot": "TAPAGEUR",
+     "definition": "Qui se fait remarquer",
+     "r": 9,
+     "c": 10,
+     "dir": "H"
+    },
+    {
+     "mot": "PLANNING",
+     "definition": "A Londres, c'est tout un programme",
+     "r": 7,
+     "c": 13,
+     "dir": "V"
+    },
+    {
+     "mot": "ASPARTAM",
+     "definition": "Petite douceur sans conséquence",
+     "r": 8,
+     "c": 0,
+     "dir": "H"
+    },
+    {
+     "mot": "EMBRASSE",
+     "definition": "Fait du bouche à bouche",
+     "r": 9,
+     "c": 15,
+     "dir": "V"
+    },
+    {
+     "mot": "INVESTIR",
+     "definition": "Faire une mise",
+     "r": 16,
+     "c": 12,
+     "dir": "H"
+    },
+    {
+     "mot": "ENDURCIR",
+     "definition": "Rendre plus ferme",
+     "r": 5,
+     "c": 17,
+     "dir": "V"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SLAM — Le jeu en ligne</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%9A%A1%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+
+<!-- ========== VUE ACCUEIL ========== -->
+<section class="view view-home" id="view-home">
+  <div class="bg-shapes">
+    <span class="shape s1">★</span>
+    <span class="shape s2">●</span>
+    <span class="shape s3">▲</span>
+    <span class="shape s4">✦</span>
+  </div>
+
+  <header class="logo">
+    <h1 class="big-title">SLAM <span class="sparkle">⚡</span></h1>
+    <p class="tagline">LE JEU EN LIGNE, ENTRE AMIS</p>
+  </header>
+
+  <div class="card card-home">
+    <label class="field">
+      <span class="field-label">TON PSEUDO</span>
+      <input id="inp-pseudo" type="text" maxlength="15" placeholder="3 à 15 caractères" autocomplete="off" />
+    </label>
+
+    <div class="tabs">
+      <button class="tab active" data-tab="create">Créer</button>
+      <button class="tab" data-tab="join">Rejoindre</button>
+    </div>
+
+    <div class="tab-panel" data-panel="create">
+      <label class="field">
+        <span class="field-label">MODE DE JEU</span>
+        <select id="sel-mode">
+          <option value="1">🧠 Solo (1 joueur)</option>
+          <option value="2" selected>⚔️ Duo (2 joueurs)</option>
+          <option value="3">🎯 Trio (3 joueurs)</option>
+        </select>
+      </label>
+      <button class="btn primary big" id="btn-create">Créer la partie ⚡</button>
+    </div>
+
+    <div class="tab-panel hidden" data-panel="join">
+      <label class="field">
+        <span class="field-label">CODE DE LA PARTIE</span>
+        <input id="inp-code" type="text" maxlength="9" placeholder="SLAM-XXXX" autocomplete="off" />
+      </label>
+      <button class="btn primary big" id="btn-join">Rejoindre 🚀</button>
+    </div>
+
+    <p class="msg" id="home-msg"></p>
+  </div>
+
+  <footer class="small">
+    <span class="badge badge-free">100% GRATUIT</span>
+    <span class="badge badge-no-account">Sans compte</span>
+    <a href="#" id="link-rules" class="link">Règles</a>
+  </footer>
+</section>
+
+<!-- ========== VUE LOBBY ========== -->
+<section class="view hidden view-lobby" id="view-lobby">
+  <header><h2 class="page-title">SALON D'ATTENTE</h2></header>
+  <div class="card card-yellow">
+    <span class="card-label">CODE DE LA PARTIE</span>
+    <div class="code-box">
+      <code id="lobby-code"></code>
+      <button class="btn mini" id="btn-copy">📋 Copier</button>
+    </div>
+    <p class="small">Partage ce code à tes amis.</p>
+  </div>
+  <div class="card card-cyan">
+    <span class="card-label">JOUEURS <span id="lobby-count"></span></span>
+    <ul id="lobby-players" class="players"></ul>
+    <button class="btn primary big" id="btn-start" disabled>🎮 Lancer la partie</button>
+    <button class="btn ghost" id="btn-leave">Quitter</button>
+  </div>
+</section>
+
+<!-- ========== VUE JEU ========== -->
+<section class="view hidden view-game" id="view-game">
+  <header class="game-header">
+    <div class="manche-badge" id="manche-badge">MANCHE 1</div>
+    <div class="theme" id="game-theme"></div>
+    <ul class="scoreboard" id="scoreboard"></ul>
+  </header>
+
+  <div class="game-main">
+    <div class="grid-panel">
+      <div class="card card-grid">
+        <div id="grid-2d" class="grid-2d"></div>
+      </div>
+    </div>
+
+    <aside class="side-panel">
+      <div id="status-box" class="card status-box">En attente…</div>
+
+      <!-- Question + Buzz -->
+      <div id="question-area" class="card card-question hidden">
+        <div class="question-text" id="question-text"></div>
+        <div class="chrono" id="chrono-display"></div>
+        <button class="btn big buzz" id="btn-buzz">⚡ BUZZ ! ⚡</button>
+      </div>
+
+      <!-- Réponse lettre -->
+      <div id="letter-area" class="card card-answer hidden">
+        <p class="answer-prompt">Tape <strong>une lettre</strong> :</p>
+        <input id="inp-letter" type="text" maxlength="1" autocomplete="off" />
+        <button class="btn primary" id="btn-send-letter">Valider</button>
+      </div>
+
+      <!-- Choix mot -->
+      <div id="word-choice-area" class="card card-answer hidden">
+        <p class="answer-prompt">Choisis un mot à deviner :</p>
+        <div id="word-choices" class="word-choices"></div>
+      </div>
+
+      <!-- Réponse mot -->
+      <div id="word-answer-area" class="card card-answer hidden">
+        <p class="definition" id="word-definition"></p>
+        <input id="inp-word" type="text" autocomplete="off" placeholder="Ta réponse" />
+        <button class="btn primary" id="btn-send-word">Valider</button>
+      </div>
+
+      <!-- SLAM -->
+      <div id="slam-box" class="card card-slam">
+        <button class="btn danger big" id="btn-slam">⚡ SLAM ⚡</button>
+        <p class="small">Remplir toute la grille d'un coup. Sans filet.</p>
+      </div>
+
+      <!-- SLAM actif -->
+      <div id="slam-active" class="card card-slam-active hidden">
+        <h3>⚡ SLAM EN COURS</h3>
+        <p class="small">Remplis tous les mots. Une seule erreur = échec.</p>
+        <div id="slam-inputs"></div>
+        <button class="btn primary big" id="btn-slam-submit">Envoyer le SLAM</button>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<!-- ========== VUE FINALE ========== -->
+<section class="view hidden view-finale" id="view-finale">
+  <header>
+    <h2 class="page-title finale-title">FINALE 🏆</h2>
+    <div class="chrono big" id="finale-chrono">--</div>
+  </header>
+
+  <div id="finale-theme-box" class="card card-yellow theme-box hidden">
+    THÈME : <strong id="finale-theme"></strong>
+  </div>
+
+  <div id="finale-picker" class="card card-cyan">
+    <h3 id="finale-picker-title">CHOISIS 5 CHIFFRES</h3>
+    <p class="small">Chaque chiffre cache une lettre.</p>
+    <div class="numbers" id="finale-numbers"></div>
+    <button class="btn primary big" id="btn-finale-submit-numbers" disabled>Valider</button>
+  </div>
+
+  <div id="finale-game" class="hidden finale-game-area">
+    <div class="card card-grid">
+      <div id="finale-grid-2d" class="grid-2d"></div>
+    </div>
+    <div class="card card-answer">
+      <input id="inp-finale" type="text" autocomplete="off" placeholder="Un mot de la grille…" />
+      <button class="btn primary big" id="btn-finale-answer">Tenter ⚡</button>
+    </div>
+  </div>
+</section>
+
+<!-- ========== VUE FIN ========== -->
+<section class="view hidden view-end" id="view-end">
+  <h2 class="page-title">FIN DE PARTIE 🎉</h2>
+  <div class="card card-yellow" id="end-summary"></div>
+  <button class="btn primary big" id="btn-replay">↻ Retour à l'accueil</button>
+</section>
+
+<!-- Toasts -->
+<div id="toast-container" class="toast-container"></div>
+
+<!-- Règles modal -->
+<div id="rules-modal" class="modal hidden">
+  <div class="modal-content card-pink">
+    <button class="btn mini close" id="btn-close-rules">×</button>
+    <h2>RÈGLES RAPIDES</h2>
+    <ul>
+      <li><strong>Manche 1 & 2 :</strong> question dont la réponse est <em>une lettre</em>. Buzze pour prendre la main.</li>
+      <li>Bonne lettre → choisis un mot du croisé contenant cette lettre → 10 s pour le deviner (1 pt par lettre).</li>
+      <li><strong>SLAM :</strong> à tout moment, tente de remplir toute la grille d'un coup. Réussi → tous les points restants. Raté → l'adversaire rafle.</li>
+      <li><strong>Finale :</strong> 5 chiffres sur 8 révèlent des lettres dans une grille thématique. 60 s pour compléter (100 pts/mot, 2 000 pts pour la grille complète).</li>
+    </ul>
+  </div>
+</div>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/app.js"></script>
+</body>
+</html>

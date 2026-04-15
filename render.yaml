@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: slam-online
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node server/index.js
+    envVars:
+      - key: NODE_VERSION
+        value: 20

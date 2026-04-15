@@ -1,0 +1,1862 @@
+[
+ {
+  "theme": "A chacun son café",
+  "rows": 13,
+  "cols": 11,
+  "mots": [
+   {
+    "mot": "EXPRESSO",
+    "definition": "À deviner (8 lettres)",
+    "r": 6,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "NOISETTE",
+    "definition": "À deviner (8 lettres)",
+    "r": 5,
+    "c": 7,
+    "dir": "V"
+   },
+   {
+    "mot": "ALLONGE",
+    "definition": "À deviner (7 lettres)",
+    "r": 0,
+    "c": 0,
+    "dir": "V"
+   },
+   {
+    "mot": "FRAPPE",
+    "definition": "À deviner (6 lettres)",
+    "r": 5,
+    "c": 3,
+    "dir": "V"
+   },
+   {
+    "mot": "SERRE",
+    "definition": "Lieu où règle la transparence",
+    "r": 6,
+    "c": 5,
+    "dir": "V"
+   },
+   {
+    "mot": "CREME",
+    "definition": "Blanc cassé",
+    "r": 10,
+    "c": 1,
+    "dir": "H"
+   },
+   {
+    "mot": "NOIR",
+    "definition": "À deviner (4 lettres)",
+    "r": 5,
+    "c": 7,
+    "dir": "H"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Les châteaux de la Loire",
+  "rows": 12,
+  "cols": 9,
+  "mots": [
+   {
+    "mot": "CHAMBORD",
+    "definition": "À deviner (8 lettres)",
+    "r": 0,
+    "c": 1,
+    "dir": "H"
+   },
+   {
+    "mot": "CHEVERNY",
+    "definition": "À deviner (8 lettres)",
+    "r": 0,
+    "c": 1,
+    "dir": "V"
+   },
+   {
+    "mot": "AMBOISE",
+    "definition": "À deviner (7 lettres)",
+    "r": 0,
+    "c": 3,
+    "dir": "V"
+   },
+   {
+    "mot": "ANGERS",
+    "definition": "À deviner (6 lettres)",
+    "r": 6,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "SAUMUR",
+    "definition": "À deviner (6 lettres)",
+    "r": 6,
+    "c": 5,
+    "dir": "V"
+   },
+   {
+    "mot": "BLOIS",
+    "definition": "À deviner (5 lettres)",
+    "r": 0,
+    "c": 5,
+    "dir": "V"
+   },
+   {
+    "mot": "USSE",
+    "definition": "À deviner (4 lettres)",
+    "r": 8,
+    "c": 5,
+    "dir": "H"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Tout chocolat",
+  "rows": 12,
+  "cols": 12,
+  "mots": [
+   {
+    "mot": "GANACHE",
+    "definition": "À deviner (7 lettres)",
+    "r": 2,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "FONDANT",
+    "definition": "À deviner (7 lettres)",
+    "r": 0,
+    "c": 2,
+    "dir": "V"
+   },
+   {
+    "mot": "TRUFFE",
+    "definition": "À deviner (6 lettres)",
+    "r": 6,
+    "c": 2,
+    "dir": "H"
+   },
+   {
+    "mot": "MOUSSE",
+    "definition": "À deviner (6 lettres)",
+    "r": 4,
+    "c": 4,
+    "dir": "V"
+   },
+   {
+    "mot": "ECLAIR",
+    "definition": "Un gâteau du tonnerre",
+    "r": 6,
+    "c": 7,
+    "dir": "V"
+   },
+   {
+    "mot": "CARRE",
+    "definition": "À deviner (5 lettres)",
+    "r": 7,
+    "c": 7,
+    "dir": "H"
+   },
+   {
+    "mot": "GLACE",
+    "definition": "À deviner (5 lettres)",
+    "r": 2,
+    "c": 0,
+    "dir": "V"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "couscous",
+  "rows": 7,
+  "cols": 14,
+  "mots": [
+   {
+    "mot": "CAROTTE",
+    "definition": "À deviner (7 lettres)",
+    "r": 1,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "SEMOULE",
+    "definition": "elle boit beaucoup avec le couscous",
+    "r": 0,
+    "c": 6,
+    "dir": "V"
+   },
+   {
+    "mot": "MERGUEZ",
+    "definition": "À deviner (7 lettres)",
+    "r": 2,
+    "c": 6,
+    "dir": "H"
+   },
+   {
+    "mot": "POULET",
+    "definition": "À deviner (6 lettres)",
+    "r": 0,
+    "c": 3,
+    "dir": "V"
+   },
+   {
+    "mot": "AGNEAU",
+    "definition": "À deviner (6 lettres)",
+    "r": 1,
+    "c": 1,
+    "dir": "V"
+   },
+   {
+    "mot": "OIGNON",
+    "definition": "il fait pleurer le chef",
+    "r": 0,
+    "c": 9,
+    "dir": "V"
+   },
+   {
+    "mot": "NAVET",
+    "definition": "Spécialité des mauvais cinéastes",
+    "r": 5,
+    "c": 9,
+    "dir": "H"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Apéritif dinatoire",
+  "rows": 11,
+  "cols": 10,
+  "mots": [
+   {
+    "mot": "VERRINE",
+    "definition": "À deviner (7 lettres)",
+    "r": 7,
+    "c": 1,
+    "dir": "H"
+   },
+   {
+    "mot": "BOUCHEE",
+    "definition": "À deviner (7 lettres)",
+    "r": 2,
+    "c": 2,
+    "dir": "V"
+   },
+   {
+    "mot": "GOUGERE",
+    "definition": "À deviner (7 lettres)",
+    "r": 3,
+    "c": 1,
+    "dir": "H"
+   },
+   {
+    "mot": "OLIVES",
+    "definition": "À deviner (6 lettres)",
+    "r": 5,
+    "c": 5,
+    "dir": "V"
+   },
+   {
+    "mot": "BLINIS",
+    "definition": "À deviner (6 lettres)",
+    "r": 10,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "CAKE",
+    "definition": "À deviner (4 lettres)",
+    "r": 0,
+    "c": 5,
+    "dir": "V"
+   },
+   {
+    "mot": "CHIPS",
+    "definition": "À deviner (5 lettres)",
+    "r": 0,
+    "c": 5,
+    "dir": "H"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Vainqueurs du Tour de France",
+  "rows": 10,
+  "cols": 15,
+  "mots": [
+   {
+    "mot": "ARMSTRONG",
+    "definition": "À deviner (9 lettres)",
+    "r": 0,
+    "c": 3,
+    "dir": "H"
+   },
+   {
+    "mot": "ANQUETIL",
+    "definition": "À deviner (8 lettres)",
+    "r": 0,
+    "c": 3,
+    "dir": "V"
+   },
+   {
+    "mot": "ULLRICH",
+    "definition": "À deviner (7 lettres)",
+    "r": 3,
+    "c": 3,
+    "dir": "H"
+   },
+   {
+    "mot": "HINAULT",
+    "definition": "À deviner (7 lettres)",
+    "r": 3,
+    "c": 9,
+    "dir": "V"
+   },
+   {
+    "mot": "FIGNON",
+    "definition": "À deviner (6 lettres)",
+    "r": 2,
+    "c": 7,
+    "dir": "V"
+   },
+   {
+    "mot": "SASTRE",
+    "definition": "À deviner (6 lettres)",
+    "r": 5,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "LEMOND",
+    "definition": "À deviner (6 lettres)",
+    "r": 8,
+    "c": 9,
+    "dir": "H"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "pour faire une bonne photo",
+  "rows": 8,
+  "cols": 11,
+  "mots": [
+   {
+    "mot": "OBJECTIF",
+    "definition": "À deviner (8 lettres)",
+    "r": 1,
+    "c": 3,
+    "dir": "H"
+   },
+   {
+    "mot": "TREPIED",
+    "definition": "À deviner (7 lettres)",
+    "r": 1,
+    "c": 8,
+    "dir": "V"
+   },
+   {
+    "mot": "REGLAGE",
+    "definition": "À deviner (7 lettres)",
+    "r": 0,
+    "c": 6,
+    "dir": "V"
+   },
+   {
+    "mot": "BOITIER",
+    "definition": "À deviner (7 lettres)",
+    "r": 1,
+    "c": 4,
+    "dir": "V"
+   },
+   {
+    "mot": "ANGLE",
+    "definition": "À deviner (5 lettres)",
+    "r": 6,
+    "c": 0,
+    "dir": "H"
+   }
+  ],
+  "unplaced_count": 2
+ },
+ {
+  "theme": "Du rouge dans les drapeaux",
+  "rows": 9,
+  "cols": 14,
+  "mots": [
+   {
+    "mot": "ALGERIE",
+    "definition": "À deviner (7 lettres)",
+    "r": 4,
+    "c": 7,
+    "dir": "H"
+   },
+   {
+    "mot": "TURQUIE",
+    "definition": "À deviner (7 lettres)",
+    "r": 2,
+    "c": 11,
+    "dir": "V"
+   },
+   {
+    "mot": "NORVEGE",
+    "definition": "À deviner (7 lettres)",
+    "r": 0,
+    "c": 13,
+    "dir": "V"
+   },
+   {
+    "mot": "CANADA",
+    "definition": "À deviner (6 lettres)",
+    "r": 3,
+    "c": 7,
+    "dir": "V"
+   },
+   {
+    "mot": "LIBAN",
+    "definition": "À deviner (5 lettres)",
+    "r": 6,
+    "c": 4,
+    "dir": "H"
+   },
+   {
+    "mot": "CHINE",
+    "definition": "À deviner (5 lettres)",
+    "r": 4,
+    "c": 5,
+    "dir": "V"
+   },
+   {
+    "mot": "SUISSE",
+    "definition": "À deviner (6 lettres)",
+    "r": 8,
+    "c": 0,
+    "dir": "H"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Cours de dessin",
+  "rows": 15,
+  "cols": 13,
+  "mots": [
+   {
+    "mot": "PALETTE",
+    "definition": "Elle est appréciée à la diable",
+    "r": 3,
+    "c": 6,
+    "dir": "H"
+   },
+   {
+    "mot": "GOUACHE",
+    "definition": "À deviner (7 lettres)",
+    "r": 0,
+    "c": 7,
+    "dir": "V"
+   },
+   {
+    "mot": "CROQUIS",
+    "definition": "À deviner (7 lettres)",
+    "r": 1,
+    "c": 5,
+    "dir": "H"
+   },
+   {
+    "mot": "PASTELS",
+    "definition": "À deviner (7 lettres)",
+    "r": 6,
+    "c": 3,
+    "dir": "H"
+   },
+   {
+    "mot": "CARNET",
+    "definition": "À deviner (6 lettres)",
+    "r": 5,
+    "c": 4,
+    "dir": "V"
+   },
+   {
+    "mot": "HUILE",
+    "definition": "À deviner (5 lettres)",
+    "r": 9,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "FUSAINS",
+    "definition": "À deviner (7 lettres)",
+    "r": 8,
+    "c": 1,
+    "dir": "V"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Blanche-Neige",
+  "rows": 12,
+  "cols": 10,
+  "mots": [
+   {
+    "mot": "SORCIERE",
+    "definition": "À deviner (8 lettres)",
+    "r": 4,
+    "c": 2,
+    "dir": "H"
+   },
+   {
+    "mot": "MIROIR",
+    "definition": "À deviner (6 lettres)",
+    "r": 3,
+    "c": 6,
+    "dir": "V"
+   },
+   {
+    "mot": "PRINCE",
+    "definition": "Il est charmant avec les demoiselles",
+    "r": 3,
+    "c": 4,
+    "dir": "V"
+   },
+   {
+    "mot": "FORET",
+    "definition": "À deviner (5 lettres)",
+    "r": 2,
+    "c": 8,
+    "dir": "V"
+   },
+   {
+    "mot": "POMME",
+    "definition": "normande rouge et joufflue",
+    "r": 8,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "NAINS",
+    "definition": "À deviner (5 lettres)",
+    "r": 0,
+    "c": 2,
+    "dir": "V"
+   },
+   {
+    "mot": "CONTE",
+    "definition": "À deviner (5 lettres)",
+    "r": 7,
+    "c": 1,
+    "dir": "V"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Les mots finissant par C",
+  "rows": 11,
+  "cols": 12,
+  "mots": [
+   {
+    "mot": "LOMBRIC",
+    "definition": "À deviner (7 lettres)",
+    "r": 2,
+    "c": 5,
+    "dir": "H"
+   },
+   {
+    "mot": "ALAMBIC",
+    "definition": "À deviner (7 lettres)",
+    "r": 1,
+    "c": 5,
+    "dir": "V"
+   },
+   {
+    "mot": "PUBLIC",
+    "definition": "À deviner (6 lettres)",
+    "r": 0,
+    "c": 8,
+    "dir": "V"
+   },
+   {
+    "mot": "ESCROC",
+    "definition": "À deviner (6 lettres)",
+    "r": 0,
+    "c": 11,
+    "dir": "V"
+   },
+   {
+    "mot": "VIADUC",
+    "definition": "Il enjambe la vallée",
+    "r": 7,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "HAMAC",
+    "definition": "À deviner (5 lettres)",
+    "r": 6,
+    "c": 2,
+    "dir": "V"
+   },
+   {
+    "mot": "BLOC",
+    "definition": "À deviner (4 lettres)",
+    "r": 5,
+    "c": 5,
+    "dir": "H"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Signes astrologiques chinois",
+  "rows": 15,
+  "cols": 10,
+  "mots": [
+   {
+    "mot": "SERPENT",
+    "definition": "À deviner (7 lettres)",
+    "r": 5,
+    "c": 3,
+    "dir": "H"
+   },
+   {
+    "mot": "BUFFLE",
+    "definition": "À deviner (6 lettres)",
+    "r": 0,
+    "c": 4,
+    "dir": "V"
+   },
+   {
+    "mot": "DRAGON",
+    "definition": "À deviner (6 lettres)",
+    "r": 0,
+    "c": 8,
+    "dir": "V"
+   },
+   {
+    "mot": "TIGRE",
+    "definition": "À deviner (5 lettres)",
+    "r": 5,
+    "c": 9,
+    "dir": "V"
+   },
+   {
+    "mot": "SINGE",
+    "definition": "À deviner (5 lettres)",
+    "r": 5,
+    "c": 3,
+    "dir": "V"
+   },
+   {
+    "mot": "CHIEN",
+    "definition": "À deviner (5 lettres)",
+    "r": 9,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "COCHON",
+    "definition": "À deviner (6 lettres)",
+    "r": 9,
+    "c": 0,
+    "dir": "V"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Sur le calendrier",
+  "rows": 10,
+  "cols": 12,
+  "mots": [
+   {
+    "mot": "SEMAINES",
+    "definition": "À deviner (8 lettres)",
+    "r": 4,
+    "c": 2,
+    "dir": "H"
+   },
+   {
+    "mot": "SAINTS",
+    "definition": "À deviner (6 lettres)",
+    "r": 4,
+    "c": 2,
+    "dir": "V"
+   },
+   {
+    "mot": "JOURS",
+    "definition": "À deviner (5 lettres)",
+    "r": 0,
+    "c": 9,
+    "dir": "V"
+   },
+   {
+    "mot": "FETES",
+    "definition": "À deviner (5 lettres)",
+    "r": 8,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "ANNEE",
+    "definition": "Elle donne le millésime",
+    "r": 3,
+    "c": 7,
+    "dir": "V"
+   },
+   {
+    "mot": "MOIS",
+    "definition": "À deviner (4 lettres)",
+    "r": 1,
+    "c": 8,
+    "dir": "H"
+   },
+   {
+    "mot": "LUNE",
+    "definition": "À deviner (4 lettres)",
+    "r": 1,
+    "c": 3,
+    "dir": "V"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Cuisinons épicé",
+  "rows": 12,
+  "cols": 11,
+  "mots": [
+   {
+    "mot": "CANNELLE",
+    "definition": "À deviner (8 lettres)",
+    "r": 5,
+    "c": 1,
+    "dir": "H"
+   },
+   {
+    "mot": "GIROFLE",
+    "definition": "À deviner (7 lettres)",
+    "r": 0,
+    "c": 6,
+    "dir": "V"
+   },
+   {
+    "mot": "CURCUMA",
+    "definition": "À deviner (7 lettres)",
+    "r": 5,
+    "c": 1,
+    "dir": "V"
+   },
+   {
+    "mot": "PIMENT",
+    "definition": "À deviner (6 lettres)",
+    "r": 1,
+    "c": 5,
+    "dir": "H"
+   },
+   {
+    "mot": "SAFRAN",
+    "definition": "À deviner (6 lettres)",
+    "r": 11,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "POIVRE",
+    "definition": "À deviner (6 lettres)",
+    "r": 3,
+    "c": 5,
+    "dir": "H"
+   },
+   {
+    "mot": "CUMIN",
+    "definition": "À deviner (5 lettres)",
+    "r": 8,
+    "c": 1,
+    "dir": "H"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Les événements de 1968",
+  "rows": 13,
+  "cols": 12,
+  "mots": [
+   {
+    "mot": "ETUDIANTS",
+    "definition": "À deviner (9 lettres)",
+    "r": 6,
+    "c": 3,
+    "dir": "H"
+   },
+   {
+    "mot": "CHIENLIT",
+    "definition": "À deviner (8 lettres)",
+    "r": 4,
+    "c": 7,
+    "dir": "V"
+   },
+   {
+    "mot": "REVOLTE",
+    "definition": "À deviner (7 lettres)",
+    "r": 5,
+    "c": 3,
+    "dir": "V"
+   },
+   {
+    "mot": "FACULTE",
+    "definition": "À deviner (7 lettres)",
+    "r": 4,
+    "c": 5,
+    "dir": "H"
+   },
+   {
+    "mot": "PAVES",
+    "definition": "À deviner (5 lettres)",
+    "r": 11,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "GREVE",
+    "definition": "droit de ne pas travailler",
+    "r": 0,
+    "c": 11,
+    "dir": "V"
+   },
+   {
+    "mot": "MAI",
+    "definition": "À deviner (3 lettres)",
+    "r": 10,
+    "c": 1,
+    "dir": "V"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Alice au pays des merveilles",
+  "rows": 10,
+  "cols": 14,
+  "mots": [
+   {
+    "mot": "CHAPELIER",
+    "definition": "À deviner (9 lettres)",
+    "r": 2,
+    "c": 2,
+    "dir": "H"
+   },
+   {
+    "mot": "CHENILLE",
+    "definition": "À deviner (8 lettres)",
+    "r": 2,
+    "c": 2,
+    "dir": "V"
+   },
+   {
+    "mot": "MONTRE",
+    "definition": "À deviner (6 lettres)",
+    "r": 5,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "CARTE",
+    "definition": "On y cherche une situation",
+    "r": 0,
+    "c": 10,
+    "dir": "V"
+   },
+   {
+    "mot": "LAPIN",
+    "definition": "Il est là en cas d'absence",
+    "r": 2,
+    "c": 7,
+    "dir": "V"
+   },
+   {
+    "mot": "REINE",
+    "definition": "Elle queen à Londres",
+    "r": 5,
+    "c": 4,
+    "dir": "V"
+   },
+   {
+    "mot": "CHAT",
+    "definition": "À deviner (4 lettres)",
+    "r": 0,
+    "c": 10,
+    "dir": "H"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Du vert dans le drapeau",
+  "rows": 15,
+  "cols": 13,
+  "mots": [
+   {
+    "mot": "HONGRIE",
+    "definition": "À deviner (7 lettres)",
+    "r": 5,
+    "c": 2,
+    "dir": "H"
+   },
+   {
+    "mot": "NIGERIA",
+    "definition": "À deviner (7 lettres)",
+    "r": 5,
+    "c": 4,
+    "dir": "V"
+   },
+   {
+    "mot": "IRLANDE",
+    "definition": "À deviner (7 lettres)",
+    "r": 5,
+    "c": 7,
+    "dir": "V"
+   },
+   {
+    "mot": "BRESIL",
+    "definition": "À deviner (6 lettres)",
+    "r": 10,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "ITALIE",
+    "definition": "À deviner (6 lettres)",
+    "r": 0,
+    "c": 8,
+    "dir": "V"
+   },
+   {
+    "mot": "JADORE",
+    "definition": "À deviner (6 lettres)",
+    "r": 2,
+    "c": 7,
+    "dir": "H"
+   },
+   {
+    "mot": "BENIN",
+    "definition": "À deviner (5 lettres)",
+    "r": 10,
+    "c": 0,
+    "dir": "V"
+   },
+   {
+    "mot": "IRAN",
+    "definition": "À deviner (4 lettres)",
+    "r": 0,
+    "c": 8,
+    "dir": "H"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Les prénoms féminins en chanson",
+  "rows": 11,
+  "cols": 14,
+  "mots": [
+   {
+    "mot": "FERNANDE",
+    "definition": "À deviner (8 lettres)",
+    "r": 1,
+    "c": 2,
+    "dir": "H"
+   },
+   {
+    "mot": "BELINDA",
+    "definition": "À deviner (7 lettres)",
+    "r": 0,
+    "c": 3,
+    "dir": "V"
+   },
+   {
+    "mot": "VANINA",
+    "definition": "À deviner (6 lettres)",
+    "r": 0,
+    "c": 6,
+    "dir": "V"
+   },
+   {
+    "mot": "CECILE",
+    "definition": "À deviner (6 lettres)",
+    "r": 0,
+    "c": 9,
+    "dir": "V"
+   },
+   {
+    "mot": "SARAH",
+    "definition": "À deviner (5 lettres)",
+    "r": 6,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "ALINE",
+    "definition": "À deviner (5 lettres)",
+    "r": 6,
+    "c": 1,
+    "dir": "V"
+   },
+   {
+    "mot": "ELISE",
+    "definition": "À deviner (5 lettres)",
+    "r": 5,
+    "c": 9,
+    "dir": "H"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Les dieux égyptiens",
+  "rows": 11,
+  "cols": 6,
+  "mots": [
+   {
+    "mot": "BASTET",
+    "definition": "À deviner (6 lettres)",
+    "r": 3,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "ANUBIS",
+    "definition": "À deviner (6 lettres)",
+    "r": 3,
+    "c": 1,
+    "dir": "V"
+   },
+   {
+    "mot": "OSIRIS",
+    "definition": "À deviner (6 lettres)",
+    "r": 8,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "HORUS",
+    "definition": "À deviner (5 lettres)",
+    "r": 6,
+    "c": 3,
+    "dir": "V"
+   },
+   {
+    "mot": "ISIS",
+    "definition": "À deviner (4 lettres)",
+    "r": 7,
+    "c": 5,
+    "dir": "V"
+   },
+   {
+    "mot": "THOT",
+    "definition": "À deviner (4 lettres)",
+    "r": 0,
+    "c": 3,
+    "dir": "V"
+   }
+  ],
+  "unplaced_count": 1
+ },
+ {
+  "theme": "Météo hivernale",
+  "rows": 11,
+  "cols": 11,
+  "mots": [
+   {
+    "mot": "FLOCONS",
+    "definition": "À deviner (7 lettres)",
+    "r": 4,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "VERGLAS",
+    "definition": "À deviner (7 lettres)",
+    "r": 0,
+    "c": 1,
+    "dir": "V"
+   },
+   {
+    "mot": "NUAGES",
+    "definition": "À deviner (6 lettres)",
+    "r": 4,
+    "c": 5,
+    "dir": "V"
+   },
+   {
+    "mot": "GELEES",
+    "definition": "À deviner (6 lettres)",
+    "r": 7,
+    "c": 5,
+    "dir": "H"
+   },
+   {
+    "mot": "FROID",
+    "definition": "À deviner (5 lettres)",
+    "r": 2,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "NEIGE",
+    "definition": "À deviner (5 lettres)",
+    "r": 6,
+    "c": 8,
+    "dir": "V"
+   },
+   {
+    "mot": "VENT",
+    "definition": "À deviner (4 lettres)",
+    "r": 0,
+    "c": 1,
+    "dir": "H"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Villes de Provence",
+  "rows": 12,
+  "cols": 10,
+  "mots": [
+   {
+    "mot": "MARSEILLE",
+    "definition": "À deviner (9 lettres)",
+    "r": 1,
+    "c": 1,
+    "dir": "H"
+   },
+   {
+    "mot": "MANOSQUE",
+    "definition": "À deviner (8 lettres)",
+    "r": 1,
+    "c": 1,
+    "dir": "V"
+   },
+   {
+    "mot": "AUBAGNE",
+    "definition": "À deviner (7 lettres)",
+    "r": 7,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "CASSIS",
+    "definition": "À deviner (6 lettres)",
+    "r": 6,
+    "c": 3,
+    "dir": "V"
+   },
+   {
+    "mot": "DIGNE",
+    "definition": "Qui a du mérite",
+    "r": 0,
+    "c": 6,
+    "dir": "V"
+   },
+   {
+    "mot": "ARLES",
+    "definition": "À deviner (5 lettres)",
+    "r": 0,
+    "c": 3,
+    "dir": "V"
+   },
+   {
+    "mot": "AIX",
+    "definition": "À deviner (3 lettres)",
+    "r": 10,
+    "c": 2,
+    "dir": "H"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "ils dorment dans un terrier",
+  "rows": 9,
+  "cols": 10,
+  "mots": [
+   {
+    "mot": "BLAIREAU",
+    "definition": "À deviner (8 lettres)",
+    "r": 2,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "BELETTE",
+    "definition": "À deviner (7 lettres)",
+    "r": 2,
+    "c": 0,
+    "dir": "V"
+   },
+   {
+    "mot": "RENARD",
+    "definition": "À deviner (6 lettres)",
+    "r": 2,
+    "c": 4,
+    "dir": "V"
+   },
+   {
+    "mot": "LOUTRE",
+    "definition": "À deviner (6 lettres)",
+    "r": 0,
+    "c": 7,
+    "dir": "V"
+   },
+   {
+    "mot": "LAPIN",
+    "definition": "Il est là en cas d'absence",
+    "r": 4,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "TAUPE",
+    "definition": "À deviner (5 lettres)",
+    "r": 1,
+    "c": 2,
+    "dir": "V"
+   },
+   {
+    "mot": "MULOT",
+    "definition": "À deviner (5 lettres)",
+    "r": 0,
+    "c": 5,
+    "dir": "H"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "ils ont fait tourner Bardot",
+  "rows": 11,
+  "cols": 11,
+  "mots": [
+   {
+    "mot": "MOLINARO",
+    "definition": "À deviner (8 lettres)",
+    "r": 6,
+    "c": 2,
+    "dir": "H"
+   },
+   {
+    "mot": "DEVILLE",
+    "definition": "À deviner (7 lettres)",
+    "r": 3,
+    "c": 5,
+    "dir": "V"
+   },
+   {
+    "mot": "CLOUZOT",
+    "definition": "À deviner (7 lettres)",
+    "r": 8,
+    "c": 4,
+    "dir": "H"
+   },
+   {
+    "mot": "ENRICO",
+    "definition": "À deviner (6 lettres)",
+    "r": 4,
+    "c": 5,
+    "dir": "H"
+   },
+   {
+    "mot": "GODARD",
+    "definition": "À deviner (6 lettres)",
+    "r": 3,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "MALLE",
+    "definition": "À deviner (5 lettres)",
+    "r": 6,
+    "c": 2,
+    "dir": "V"
+   },
+   {
+    "mot": "MERCI",
+    "definition": "Reconnaissance de dette",
+    "r": 0,
+    "c": 8,
+    "dir": "V"
+   },
+   {
+    "mot": "BIEN",
+    "definition": "À deviner (4 lettres)",
+    "r": 1,
+    "c": 6,
+    "dir": "H"
+   }
+  ],
+  "unplaced_count": 1
+ },
+ {
+  "theme": "villes du Japon",
+  "rows": 11,
+  "cols": 14,
+  "mots": [
+   {
+    "mot": "HIROSHIMA",
+    "definition": "À deviner (9 lettres)",
+    "r": 1,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "NAGASAKI",
+    "definition": "À deviner (8 lettres)",
+    "r": 0,
+    "c": 8,
+    "dir": "V"
+   },
+   {
+    "mot": "SAPPORO",
+    "definition": "À deviner (7 lettres)",
+    "r": 1,
+    "c": 4,
+    "dir": "V"
+   },
+   {
+    "mot": "NAGANO",
+    "definition": "À deviner (6 lettres)",
+    "r": 0,
+    "c": 8,
+    "dir": "H"
+   },
+   {
+    "mot": "KYOTO",
+    "definition": "À deviner (5 lettres)",
+    "r": 6,
+    "c": 8,
+    "dir": "H"
+   },
+   {
+    "mot": "TOKYO",
+    "definition": "À deviner (5 lettres)",
+    "r": 6,
+    "c": 11,
+    "dir": "V"
+   },
+   {
+    "mot": "OSAKA",
+    "definition": "À deviner (5 lettres)",
+    "r": 5,
+    "c": 4,
+    "dir": "H"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Autour des yeux",
+  "rows": 10,
+  "cols": 8,
+  "mots": [
+   {
+    "mot": "PAUPIERE",
+    "definition": "À deviner (8 lettres)",
+    "r": 2,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "PUPILLE",
+    "definition": "À deviner (7 lettres)",
+    "r": 2,
+    "c": 0,
+    "dir": "V"
+   },
+   {
+    "mot": "SOURCIL",
+    "definition": "À deviner (7 lettres)",
+    "r": 0,
+    "c": 2,
+    "dir": "V"
+   },
+   {
+    "mot": "CORNEE",
+    "definition": "À deviner (6 lettres)",
+    "r": 4,
+    "c": 2,
+    "dir": "H"
+   },
+   {
+    "mot": "RETINE",
+    "definition": "À deviner (6 lettres)",
+    "r": 4,
+    "c": 4,
+    "dir": "V"
+   },
+   {
+    "mot": "IRIS",
+    "definition": "À deviner (4 lettres)",
+    "r": 7,
+    "c": 4,
+    "dir": "H"
+   },
+   {
+    "mot": "CIL",
+    "definition": "À deviner (3 lettres)",
+    "r": 6,
+    "c": 6,
+    "dir": "V"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Les gaz de l'air",
+  "rows": 9,
+  "cols": 9,
+  "mots": [
+   {
+    "mot": "HYDROGENE",
+    "definition": "À deviner (9 lettres)",
+    "r": 1,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "OXYGENE",
+    "definition": "À deviner (7 lettres)",
+    "r": 1,
+    "c": 4,
+    "dir": "V"
+   },
+   {
+    "mot": "HELIUM",
+    "definition": "À deviner (6 lettres)",
+    "r": 1,
+    "c": 0,
+    "dir": "V"
+   },
+   {
+    "mot": "XENON",
+    "definition": "À deviner (5 lettres)",
+    "r": 0,
+    "c": 6,
+    "dir": "V"
+   },
+   {
+    "mot": "ARGON",
+    "definition": "À deviner (5 lettres)",
+    "r": 4,
+    "c": 2,
+    "dir": "H"
+   },
+   {
+    "mot": "AZOTE",
+    "definition": "À deviner (5 lettres)",
+    "r": 4,
+    "c": 2,
+    "dir": "V"
+   },
+   {
+    "mot": "NEON",
+    "definition": "À deviner (4 lettres)",
+    "r": 6,
+    "c": 4,
+    "dir": "H"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Documents écrits",
+  "rows": 11,
+  "cols": 14,
+  "mots": [
+   {
+    "mot": "BULLETIN",
+    "definition": "À deviner (8 lettres)",
+    "r": 6,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "RAPPORT",
+    "definition": "À deviner (7 lettres)",
+    "r": 0,
+    "c": 5,
+    "dir": "V"
+   },
+   {
+    "mot": "DOSSIER",
+    "definition": "À deviner (7 lettres)",
+    "r": 4,
+    "c": 4,
+    "dir": "H"
+   },
+   {
+    "mot": "THESE",
+    "definition": "À deviner (5 lettres)",
+    "r": 2,
+    "c": 9,
+    "dir": "V"
+   },
+   {
+    "mot": "LIVRE",
+    "definition": "À deviner (5 lettres)",
+    "r": 6,
+    "c": 2,
+    "dir": "V"
+   },
+   {
+    "mot": "ETUDE",
+    "definition": "Travail approfondi",
+    "r": 6,
+    "c": 4,
+    "dir": "V"
+   },
+   {
+    "mot": "TEXTE",
+    "definition": "À deviner (5 lettres)",
+    "r": 2,
+    "c": 9,
+    "dir": "H"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Trousseau de naissance",
+  "rows": 10,
+  "cols": 13,
+  "mots": [
+   {
+    "mot": "BIBERON",
+    "definition": "À deviner (7 lettres)",
+    "r": 4,
+    "c": 5,
+    "dir": "H"
+   },
+   {
+    "mot": "MOBILE",
+    "definition": "Qui suit le mouvement",
+    "r": 3,
+    "c": 10,
+    "dir": "V"
+   },
+   {
+    "mot": "HOCHET",
+    "definition": "À deviner (6 lettres)",
+    "r": 0,
+    "c": 8,
+    "dir": "V"
+   },
+   {
+    "mot": "BAVOIR",
+    "definition": "À deviner (6 lettres)",
+    "r": 4,
+    "c": 5,
+    "dir": "V"
+   },
+   {
+    "mot": "PYJAMA",
+    "definition": "À deviner (6 lettres)",
+    "r": 5,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "BONNET",
+    "definition": "À deviner (6 lettres)",
+    "r": 1,
+    "c": 7,
+    "dir": "H"
+   },
+   {
+    "mot": "BODY",
+    "definition": "À deviner (4 lettres)",
+    "r": 7,
+    "c": 4,
+    "dir": "H"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Chanteurs-acteurs français",
+  "rows": 10,
+  "cols": 8,
+  "mots": [
+   {
+    "mot": "AZNAVOUR",
+    "definition": "À deviner (8 lettres)",
+    "r": 2,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "REGGIANI",
+    "definition": "À deviner (8 lettres)",
+    "r": 2,
+    "c": 7,
+    "dir": "V"
+   },
+   {
+    "mot": "BOURVIL",
+    "definition": "À deviner (7 lettres)",
+    "r": 1,
+    "c": 5,
+    "dir": "V"
+   },
+   {
+    "mot": "MONTAND",
+    "definition": "À deviner (7 lettres)",
+    "r": 0,
+    "c": 2,
+    "dir": "V"
+   },
+   {
+    "mot": "DARMON",
+    "definition": "À deviner (6 lettres)",
+    "r": 1,
+    "c": 0,
+    "dir": "V"
+   }
+  ],
+  "unplaced_count": 2
+ },
+ {
+  "theme": "Le bestiaire de la Fontaine",
+  "rows": 11,
+  "cols": 9,
+  "mots": [
+   {
+    "mot": "CORBEAU",
+    "definition": "À deviner (7 lettres)",
+    "r": 5,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "RENARD",
+    "definition": "À deviner (6 lettres)",
+    "r": 5,
+    "c": 2,
+    "dir": "V"
+   },
+   {
+    "mot": "TORTUE",
+    "definition": "À deviner (6 lettres)",
+    "r": 9,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "FOURMI",
+    "definition": "À deviner (6 lettres)",
+    "r": 3,
+    "c": 6,
+    "dir": "V"
+   },
+   {
+    "mot": "LIEVRE",
+    "definition": "À deviner (6 lettres)",
+    "r": 0,
+    "c": 4,
+    "dir": "V"
+   },
+   {
+    "mot": "CIGALE",
+    "definition": "À deviner (6 lettres)",
+    "r": 1,
+    "c": 3,
+    "dir": "H"
+   },
+   {
+    "mot": "HERON",
+    "definition": "À deviner (5 lettres)",
+    "r": 0,
+    "c": 8,
+    "dir": "V"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Les philosophes",
+  "rows": 11,
+  "cols": 9,
+  "mots": [
+   {
+    "mot": "MONTAIGNE",
+    "definition": "À deviner (9 lettres)",
+    "r": 1,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "ROUSSEAU",
+    "definition": "À deviner (8 lettres)",
+    "r": 0,
+    "c": 1,
+    "dir": "V"
+   },
+   {
+    "mot": "EPICURE",
+    "definition": "À deviner (7 lettres)",
+    "r": 1,
+    "c": 8,
+    "dir": "V"
+   },
+   {
+    "mot": "SENEQUE",
+    "definition": "À deviner (7 lettres)",
+    "r": 5,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "ERASME",
+    "definition": "À deviner (6 lettres)",
+    "r": 5,
+    "c": 3,
+    "dir": "V"
+   },
+   {
+    "mot": "SARTRE",
+    "definition": "À deviner (6 lettres)",
+    "r": 3,
+    "c": 1,
+    "dir": "H"
+   },
+   {
+    "mot": "KANT",
+    "definition": "À deviner (4 lettres)",
+    "r": 0,
+    "c": 4,
+    "dir": "V"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Je déménage !",
+  "rows": 9,
+  "cols": 8,
+  "mots": [
+   {
+    "mot": "CAMION",
+    "definition": "À deviner (6 lettres)",
+    "r": 1,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "DIABLE",
+    "definition": "À deviner (6 lettres)",
+    "r": 0,
+    "c": 3,
+    "dir": "V"
+   },
+   {
+    "mot": "CARTON",
+    "definition": "À deviner (6 lettres)",
+    "r": 1,
+    "c": 0,
+    "dir": "V"
+   },
+   {
+    "mot": "MEUBLE",
+    "definition": "À deviner (6 lettres)",
+    "r": 5,
+    "c": 2,
+    "dir": "H"
+   },
+   {
+    "mot": "CORDE",
+    "definition": "À deviner (5 lettres)",
+    "r": 1,
+    "c": 7,
+    "dir": "V"
+   },
+   {
+    "mot": "BRAS",
+    "definition": "À deviner (4 lettres)",
+    "r": 5,
+    "c": 5,
+    "dir": "V"
+   },
+   {
+    "mot": "ETAGE",
+    "definition": "À deviner (5 lettres)",
+    "r": 7,
+    "c": 3,
+    "dir": "H"
+   }
+  ],
+  "unplaced_count": 0
+ },
+ {
+  "theme": "Surcouf et flibuste",
+  "rows": 13,
+  "cols": 8,
+  "mots": [
+   {
+    "mot": "CORSAIRE",
+    "definition": "À deviner (8 lettres)",
+    "r": 2,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "CARAIBES",
+    "definition": "À deviner (8 lettres)",
+    "r": 2,
+    "c": 0,
+    "dir": "V"
+   },
+   {
+    "mot": "BATEAU",
+    "definition": "À deviner (6 lettres)",
+    "r": 7,
+    "c": 0,
+    "dir": "H"
+   },
+   {
+    "mot": "TRESOR",
+    "definition": "À deviner (6 lettres)",
+    "r": 7,
+    "c": 2,
+    "dir": "V"
+   },
+   {
+    "mot": "PIRATE",
+    "definition": "À deviner (6 lettres)",
+    "r": 0,
+    "c": 2,
+    "dir": "V"
+   },
+   {
+    "mot": "CARTE",
+    "definition": "On y cherche une situation",
+    "r": 1,
+    "c": 4,
+    "dir": "V"
+   },
+   {
+    "mot": "ILE",
+    "definition": "À deviner (3 lettres)",
+    "r": 0,
+    "c": 7,
+    "dir": "V"
+   }
+  ],
+  "unplaced_count": 0
+ }
+]
