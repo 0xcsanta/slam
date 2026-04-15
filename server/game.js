@@ -157,12 +157,25 @@ function nextQuestion(io, room) {
   // plus de mots à trouver → manche finie
   const motsRestants = room.grille.mots.filter((m) => !m.trouve && !m.grise);
   if (motsRestants.length === 0) return endManche(io, room, 'complete');
-  // plus de questions → fin (mais SLAM encore possible)
-  if (room.questionsRestantes.length === 0) {
+  // Filtrer : écarte les questions dont la lettre est déjà révélée ou perdue
+  const inGrid = new Set();
+  for (const m of room.grille.mots) {
+    if (m.trouve || m.grise) continue;
+    for (const c of m.mot) if (!room.lettresRevelees.has(c)) inGrid.add(c);
+  }
+  let picked = null;
+  while (room.questionsRestantes.length) {
+    const q = room.questionsRestantes.shift();
+    const L = q.lettre.toUpperCase();
+    if (room.lettresRevelees.has(L) || room.lettresPerdues.has(L)) continue;
+    if (!inGrid.has(L)) continue; // aussi : lettre pas dans la grille restante
+    picked = q; break;
+  }
+  if (!picked) {
     emitAll(io, room, 'questions_exhausted', {});
     return;
   }
-  const q = room.questionsRestantes.shift();
+  const q = picked;
   room.question = {
     id: q.id, texte: q.texte, lettre: q.lettre.toUpperCase(), indice: q.indice,
     blockedPlayers: new Set(),
@@ -217,6 +230,33 @@ function tryReopenOrLose(io, room) {
   }
 }
 
+// ------------ Auto-complétion ------------
+// Quand toutes les lettres d'un mot sont révélées → mot trouvé automatiquement
+// par le joueur qui vient de débloquer la dernière lettre. Cascade si besoin.
+function autoCompleteWords(io, room, lastPlayer) {
+  let progress = true;
+  while (progress) {
+    progress = false;
+    for (const m of room.grille.mots) {
+      if (m.trouve || m.grise) continue;
+      const all = m.mot.split('').every((c) => room.lettresRevelees.has(c));
+      if (!all) continue;
+      m.trouve = true;
+      m.par = lastPlayer ? lastPlayer.pseudo : null;
+      for (const c of m.mot) room.lettresRevelees.add(c);
+      const points = m.mot.length;
+      if (lastPlayer) lastPlayer.score += points;
+      emitAll(io, room, 'word_found', {
+        motId: m.id, mot: m.mot,
+        joueur: lastPlayer ? lastPlayer.pseudo : null,
+        points, score: lastPlayer ? lastPlayer.score : 0,
+        auto: true,
+      });
+      progress = true;
+    }
+  }
+}
+
 // ------------ Buzz & réponse lettre ------------
 function handleBuzz(io, room, socketId) {
   const q = room.question;
@@ -244,12 +284,14 @@ function handleAnswerLetter(io, room, socketId, lettre) {
   if (correct) {
     room.lettresRevelees.add(q.lettre);
     emitAll(io, room, 'letter_revealed', { lettre: q.lettre, joueur: j.pseudo });
-    // propose les mots contenant cette lettre
+    // Auto-complète les mots entièrement dévoilés (points au joueur qui a débloqué la lettre)
+    autoCompleteWords(io, room, j);
+    // Propose les mots non encore trouvés/grisés contenant cette lettre (et non auto-trouvés)
     const choices = room.grille.mots
       .filter((m) => !m.trouve && !m.grise && m.mot.includes(q.lettre))
       .map((m) => ({ id: m.id, longueur: m.mot.length }));
     if (choices.length === 0) {
-      // aucune parole à choisir : passe à la suite
+      // aucun mot à deviner (soit tous les mots contenant cette lettre sont déjà trouvés/grisés)
       room.question = null;
       broadcastState(io, room);
       return setTimeout(() => nextQuestion(io, room), 1200);
@@ -311,6 +353,8 @@ function handleAnswerWord(io, room, socketId, reponse) {
     emitAll(io, room, 'word_found', {
       motId: m.id, mot: m.mot, joueur: j.pseudo, points, score: j.score,
     });
+    // Cascade : d'autres mots peuvent être entièrement dévoilés grâce à ce mot
+    autoCompleteWords(io, room, j);
   } else {
     // Mauvaise réponse : on NE révèle PAS le mot. Il reste disponible.
     emitAll(io, room, 'word_failed', {

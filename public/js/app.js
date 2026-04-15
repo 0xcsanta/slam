@@ -275,14 +275,20 @@ function renderSidePanel() {
     }
   } else if (q.phase === 'word') {
     $('#btn-buzz').classList.add('hidden');
+    // Enigme visible pour tout le monde
+    $('#word-definition').textContent = q.wordDefinition || '';
+    $('#word-answer-area').classList.remove('hidden');
     if (iamActive) {
-      $('#status-box').textContent = '→ DEVINE LE MOT !';
-      $('#word-definition').textContent = q.wordDefinition || '';
-      $('#word-answer-area').classList.remove('hidden');
+      $('#status-box').textContent = '→ À TOI DE DEVINER LE MOT !';
+      $('#inp-word').disabled = false;
+      $('#btn-send-word').disabled = false;
       $('#inp-word').value = '';
       $('#inp-word').focus();
     } else {
       $('#status-box').textContent = `${q.currentPlayer.toUpperCase()} DEVINE…`;
+      // Spectateurs : voient la définition mais ne peuvent pas taper
+      $('#inp-word').disabled = true;
+      $('#btn-send-word').disabled = true;
     }
   }
 }

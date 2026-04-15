@@ -1,1276 +1,849 @@
 [
  {
-  "id": 1,
-  "texte": "Dernière lettre du film extra-terrestre au vélo volant.",
-  "lettre": "T",
-  "indice": "E.T.",
-  "categorie": "Cinéma"
- },
- {
-  "id": 2,
-  "texte": "Dernière lettre du navigateur qui découvrit l'Amérique.",
-  "lettre": "B",
-  "indice": "Colomb",
-  "categorie": "Histoire"
- },
- {
-  "id": 3,
-  "texte": "Dernière lettre de la capitale espagnole.",
-  "lettre": "D",
-  "indice": "Madrid",
-  "categorie": "Géographie"
- },
- {
-  "id": 4,
-  "texte": "Dernière lettre du pluriel de cheval.",
-  "lettre": "X",
-  "indice": "Chevaux",
-  "categorie": "Langue"
- },
- {
-  "id": 5,
-  "texte": "Dernière lettre du plus grand singe.",
   "lettre": "E",
-  "indice": "Gorille",
-  "categorie": "Nature"
+  "texte": "Queue de pie",
+  "indice": "dernière lettre du mot « pie »",
+  "categorie": "SLAM",
+  "id": 1
  },
  {
-  "id": 6,
-  "texte": "Dernière lettre de l'héroïne de la Reine des Neiges.",
-  "lettre": "A",
-  "indice": "Elsa",
-  "categorie": "Cinéma"
- },
- {
-  "id": 7,
-  "texte": "Dernière lettre de la force qui nous maintient au sol.",
-  "lettre": "E",
-  "indice": "Gravité",
-  "categorie": "Sciences"
- },
- {
-  "id": 8,
-  "texte": "Lettre débutant le nom de l'auteur des Misérables.",
-  "lettre": "H",
-  "indice": "Hugo",
-  "categorie": "Culture"
- },
- {
-  "id": 9,
-  "texte": "Dernière lettre de la Ville Lumière.",
-  "lettre": "S",
-  "indice": "Paris",
-  "categorie": "Géographie"
- },
- {
-  "id": 10,
-  "texte": "Dernière lettre du plus petit instrument à cordes.",
-  "lettre": "N",
-  "indice": "Violon",
-  "categorie": "Musique"
- },
- {
-  "id": 11,
-  "texte": "Dernière lettre de l'instrument à vent du jazz.",
-  "lettre": "E",
-  "indice": "Clarinette",
-  "categorie": "Musique"
- },
- {
-  "id": 12,
-  "texte": "Dernière lettre de la bataille de 1815.",
-  "lettre": "O",
-  "indice": "Waterloo",
-  "categorie": "Histoire"
- },
- {
-  "id": 13,
-  "texte": "Dernière lettre de la spécialité alsacienne au chou.",
-  "lettre": "E",
-  "indice": "Choucroute",
-  "categorie": "Gastronomie"
- },
- {
-  "id": 14,
-  "texte": "Dernière lettre du plus vaste désert du monde.",
-  "lettre": "A",
-  "indice": "Sahara",
-  "categorie": "Géographie"
- },
- {
-  "id": 15,
-  "texte": "Dernière lettre du sport de Rafael Nadal.",
-  "lettre": "S",
-  "indice": "Tennis",
-  "categorie": "Sport"
- },
- {
-  "id": 16,
-  "texte": "Dernière lettre du grand reptile des rivières tropicales.",
-  "lettre": "E",
-  "indice": "Crocodile",
-  "categorie": "Nature"
- },
- {
-  "id": 17,
-  "texte": "Dernière lettre du compositeur de la 5e Symphonie.",
-  "lettre": "N",
-  "indice": "Beethoven",
-  "categorie": "Musique"
- },
- {
-  "id": 18,
-  "texte": "Dernière lettre du plus grand animal marin.",
-  "lettre": "E",
-  "indice": "Baleine",
-  "categorie": "Nature"
- },
- {
-  "id": 19,
-  "texte": "Dernière lettre de l'endroit où l'on dort.",
-  "lettre": "T",
-  "indice": "Lit",
-  "categorie": "Langue"
- },
- {
-  "id": 20,
-  "texte": "Dernière lettre du synonyme de joyeux.",
-  "lettre": "T",
-  "indice": "Content",
-  "categorie": "Langue"
- },
- {
-  "id": 21,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : ANOI ? (capitale du Vietnam)",
-  "lettre": "H",
-  "indice": "HANOI"
- },
- {
-  "id": 22,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : OKYO ? (capitale du Japon)",
-  "lettre": "T",
-  "indice": "TOKYO"
- },
- {
-  "id": 23,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : SEUL ? (capitale de la Corée du Sud)",
-  "lettre": "O",
-  "indice": "SEOUL"
- },
- {
-  "id": 24,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : PKIN ? (capitale de la Chine)",
-  "lettre": "E",
-  "indice": "PEKIN"
- },
- {
-  "id": 25,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : AHENES ? (capitale de la Grèce)",
-  "lettre": "T",
-  "indice": "ATHENES"
- },
- {
-  "id": 26,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : MDRID ? (capitale de l'Espagne)",
-  "lettre": "A",
-  "indice": "MADRID"
- },
- {
-  "id": 27,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : LSBONNE ? (capitale du Portugal)",
-  "lettre": "I",
-  "indice": "LISBONNE"
- },
- {
-  "id": 28,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : VIENN ? (capitale de l'Autriche)",
-  "lettre": "E",
-  "indice": "VIENNE"
- },
- {
-  "id": 29,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : VRSOVIE ? (capitale de la Pologne)",
-  "lettre": "A",
-  "indice": "VARSOVIE"
- },
- {
-  "id": 30,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : PRAGE ? (capitale de la Tchéquie)",
   "lettre": "U",
-  "indice": "PRAGUE"
+  "texte": "Queue de cou",
+  "indice": "dernière lettre du mot « cou »",
+  "categorie": "SLAM",
+  "id": 2
  },
  {
-  "id": 31,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : BUDAPET ? (capitale de la Hongrie)",
+  "lettre": "T",
+  "texte": "Queue de rat",
+  "indice": "dernière lettre du mot « rat »",
+  "categorie": "SLAM",
+  "id": 3
+ },
+ {
+  "lettre": "O",
+  "texte": "Queue de vélo",
+  "indice": "dernière lettre du mot « vélo »",
+  "categorie": "SLAM",
+  "id": 4
+ },
+ {
   "lettre": "S",
-  "indice": "BUDAPEST"
+  "texte": "Queue de pois",
+  "indice": "dernière lettre du mot « pois »",
+  "categorie": "SLAM",
+  "id": 5
  },
  {
-  "id": 32,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : SLO ? (capitale de la Norvège)",
-  "lettre": "O",
-  "indice": "OSLO"
- },
- {
-  "id": 33,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : TOCKHOLM ? (capitale de la Suède)",
-  "lettre": "S",
-  "indice": "STOCKHOLM"
- },
- {
-  "id": 34,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : HLSINKI ? (capitale de la Finlande)",
-  "lettre": "E",
-  "indice": "HELSINKI"
- },
- {
-  "id": 35,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : DBLIN ? (capitale de l'Irlande)",
-  "lettre": "U",
-  "indice": "DUBLIN"
- },
- {
-  "id": 36,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : LNDRES ? (capitale du Royaume-Uni)",
-  "lettre": "O",
-  "indice": "LONDRES"
- },
- {
-  "id": 37,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : BRUXELLE ? (capitale de la Belgique)",
-  "lettre": "S",
-  "indice": "BRUXELLES"
- },
- {
-  "id": 38,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : ANKAA ? (capitale de la Turquie)",
-  "lettre": "R",
-  "indice": "ANKARA"
- },
- {
-  "id": 39,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : AIRO ? (capitale de l'Égypte)",
-  "lettre": "C",
-  "indice": "CAIRO"
- },
- {
-  "id": 40,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : RABA ? (capitale du Maroc)",
-  "lettre": "T",
-  "indice": "RABAT"
- },
- {
-  "id": 41,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : TNIS ? (capitale de la Tunisie)",
-  "lettre": "U",
-  "indice": "TUNIS"
- },
- {
-  "id": 42,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : ALGE ? (capitale de l'Algérie)",
-  "lettre": "R",
-  "indice": "ALGER"
- },
- {
-  "id": 43,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : DAKR ? (capitale du Sénégal)",
-  "lettre": "A",
-  "indice": "DAKAR"
- },
- {
-  "id": 44,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : NIROBI ? (capitale du Kenya)",
-  "lettre": "A",
-  "indice": "NAIROBI"
- },
- {
-  "id": 45,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : LIM ? (capitale du Pérou)",
-  "lettre": "A",
-  "indice": "LIMA"
- },
- {
-  "id": 46,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : QUIT ? (capitale de l'Équateur)",
-  "lettre": "O",
-  "indice": "QUITO"
- },
- {
-  "id": 47,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : CAACAS ? (capitale du Venezuela)",
-  "lettre": "R",
-  "indice": "CARACAS"
- },
- {
-  "id": 48,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : OGOTA ? (capitale de la Colombie)",
-  "lettre": "B",
-  "indice": "BOGOTA"
- },
- {
-  "id": 49,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : HVANE ? (capitale de Cuba)",
-  "lettre": "A",
-  "indice": "HAVANE"
- },
- {
-  "id": 50,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : OTTAW ? (capitale du Canada)",
-  "lettre": "A",
-  "indice": "OTTAWA"
- },
- {
-  "id": 51,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : PARS ? (capitale de la France)",
   "lettre": "I",
-  "indice": "PARIS"
+  "texte": "Tête de pioche",
+  "indice": "première lettre… en décalé",
+  "categorie": "SLAM",
+  "id": 6
  },
  {
-  "id": 52,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : BELIN ? (capitale de l'Allemagne)",
-  "lettre": "R",
-  "indice": "BERLIN"
- },
- {
-  "id": 53,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : ROE ? (capitale de l'Italie)",
-  "lettre": "M",
-  "indice": "ROME"
- },
- {
-  "id": 54,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : MSCOU ? (capitale de la Russie)",
-  "lettre": "O",
-  "indice": "MOSCOU"
- },
- {
-  "id": 55,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : LON ? (ville du Rhône)",
-  "lettre": "Y",
-  "indice": "LYON"
- },
- {
-  "id": 56,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : MARSELLE ? (cité phocéenne)",
-  "lettre": "I",
-  "indice": "MARSEILLE"
- },
- {
-  "id": 57,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : TULOUSE ? (ville rose)",
-  "lettre": "O",
-  "indice": "TOULOUSE"
- },
- {
-  "id": 58,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : BRDEAUX ? (grande ville du vin)",
-  "lettre": "O",
-  "indice": "BORDEAUX"
- },
- {
-  "id": 59,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : NANES ? (ancienne capitale ducale)",
-  "lettre": "T",
-  "indice": "NANTES"
- },
- {
-  "id": 60,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : SRASBOURG ? (capitale de l'Alsace)",
-  "lettre": "T",
-  "indice": "STRASBOURG"
- },
- {
-  "id": 61,
-  "categorie": "Géographie",
-  "texte": "Quelle lettre manque dans le nom de cette ville : LILE ? (préfecture du Nord)",
-  "lettre": "L",
-  "indice": "LILLE"
- },
- {
-  "id": 62,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot CARACTERISATION ?",
-  "lettre": "A",
-  "indice": "3 fois"
- },
- {
-  "id": 63,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot ANTICONSTITUTIONNEL ?",
-  "lettre": "N",
-  "indice": "4 fois"
- },
- {
-  "id": 64,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot ALLITERATION ?",
-  "lettre": "A",
-  "indice": "2 fois"
- },
- {
-  "id": 65,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot PARLEMENTAIRE ?",
-  "lettre": "E",
-  "indice": "3 fois"
- },
- {
-  "id": 66,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot TELEVISION ?",
-  "lettre": "E",
-  "indice": "2 fois"
- },
- {
-  "id": 67,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot ELEMENTAIRE ?",
-  "lettre": "E",
-  "indice": "4 fois"
- },
- {
-  "id": 68,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot DISSEMINATION ?",
-  "lettre": "I",
-  "indice": "3 fois"
- },
- {
-  "id": 69,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot IRRESPONSABLE ?",
-  "lettre": "E",
-  "indice": "2 fois"
- },
- {
-  "id": 70,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot MADEMOISELLE ?",
-  "lettre": "E",
-  "indice": "3 fois"
- },
- {
-  "id": 71,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot ENFANTILLAGE ?",
-  "lettre": "A",
-  "indice": "2 fois"
- },
- {
-  "id": 72,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot PROGRAMMATION ?",
-  "lettre": "A",
-  "indice": "2 fois"
- },
- {
-  "id": 73,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot REPRESENTATION ?",
-  "lettre": "E",
-  "indice": "3 fois"
- },
- {
-  "id": 74,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot RESSOURCEMENT ?",
-  "lettre": "E",
-  "indice": "3 fois"
- },
- {
-  "id": 75,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot RESSENTIMENT ?",
-  "lettre": "E",
-  "indice": "3 fois"
- },
- {
-  "id": 76,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot SENTIMENTALEMENT ?",
-  "lettre": "E",
-  "indice": "4 fois"
- },
- {
-  "id": 77,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot EXTRAORDINAIRE ?",
-  "lettre": "R",
-  "indice": "3 fois"
- },
- {
-  "id": 78,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot APPARTEMENT ?",
-  "lettre": "A",
-  "indice": "2 fois"
- },
- {
-  "id": 79,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot RECONNAISSANCE ?",
-  "lettre": "N",
-  "indice": "3 fois"
- },
- {
-  "id": 80,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot POSSIBILITE ?",
-  "lettre": "I",
-  "indice": "3 fois"
- },
- {
-  "id": 81,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot INCOMMENSURABLE ?",
-  "lettre": "E",
-  "indice": "2 fois"
- },
- {
-  "id": 82,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot SUCCESSION ?",
-  "lettre": "S",
-  "indice": "3 fois"
- },
- {
-  "id": 83,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot DIFFICULTE ?",
-  "lettre": "F",
-  "indice": "2 fois"
- },
- {
-  "id": 84,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot OPPOSITION ?",
-  "lettre": "O",
-  "indice": "3 fois"
- },
- {
-  "id": 85,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot APPARITION ?",
-  "lettre": "A",
-  "indice": "2 fois"
- },
- {
-  "id": 86,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot ABBATIALE ?",
-  "lettre": "A",
-  "indice": "3 fois"
- },
- {
-  "id": 87,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot ACCOMMODATION ?",
-  "lettre": "O",
-  "indice": "3 fois"
- },
- {
-  "id": 88,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot BANANIER ?",
-  "lettre": "A",
-  "indice": "2 fois"
- },
- {
-  "id": 89,
-  "categorie": "Langue",
-  "texte": "Quelle lettre est la plus répétée dans le mot COCOTIER ?",
-  "lettre": "C",
-  "indice": "2 fois"
- },
- {
-  "id": 90,
-  "categorie": "Jeu de mots",
-  "texte": "Quelle lettre doit remplacer un I du mot LIVRE pour former un mot signifiant : « bordure de la bouche » ?",
-  "lettre": "E",
-  "indice": "LEVRE"
- },
- {
-  "id": 91,
-  "categorie": "Jeu de mots",
-  "texte": "Quelle lettre doit remplacer un A du mot PATE pour former un mot signifiant : « un copain » ?",
-  "lettre": "O",
-  "indice": "POTE"
- },
- {
-  "id": 92,
-  "categorie": "Jeu de mots",
-  "texte": "Quelle lettre doit remplacer un U du mot MURE pour former un mot signifiant : « point d'eau » ?",
-  "lettre": "A",
-  "indice": "MARE"
- },
- {
-  "id": 93,
-  "categorie": "Jeu de mots",
-  "texte": "Quelle lettre doit remplacer un A du mot MARE pour former un mot signifiant : « fruit noir » ?",
-  "lettre": "U",
-  "indice": "MURE"
- },
- {
-  "id": 94,
-  "categorie": "Jeu de mots",
-  "texte": "Quelle lettre doit remplacer un A du mot PLAT pour former un mot signifiant : « un support » ?",
-  "lettre": "O",
-  "indice": "PLOT"
- },
- {
-  "id": 95,
-  "categorie": "Jeu de mots",
-  "texte": "Quelle lettre doit remplacer un E du mot VELO pour former un mot signifiant : « expression familière » ?",
-  "lettre": "O",
-  "indice": "VOLO"
- },
- {
-  "id": 96,
-  "categorie": "Jeu de mots",
-  "texte": "Quelle lettre doit remplacer un A du mot CHAT pour former un mot signifiant : « note personnelle » ?",
-  "lettre": "O",
-  "indice": "CHOT"
- },
- {
-  "id": 97,
-  "categorie": "Jeu de mots",
-  "texte": "Quelle lettre doit remplacer un E du mot DENT pour former un mot signifiant : « pronom relatif » ?",
-  "lettre": "O",
-  "indice": "DONT"
- },
- {
-  "id": 98,
-  "categorie": "Jeu de mots",
-  "texte": "Quelle lettre doit remplacer un O du mot BON pour former un mot signifiant : « interdiction » ?",
-  "lettre": "A",
-  "indice": "BAN"
- },
- {
-  "id": 99,
-  "categorie": "Jeu de mots",
-  "texte": "Quelle lettre doit remplacer un A du mot BAR pour former un mot signifiant : « bord de mer » ?",
-  "lettre": "O",
-  "indice": "BOR"
- },
- {
-  "id": 100,
-  "categorie": "Jeu de mots",
-  "texte": "Quelle lettre doit remplacer un A du mot SAC pour former un mot signifiant : « sans eau » ?",
-  "lettre": "E",
-  "indice": "SEC"
- },
- {
-  "id": 101,
-  "categorie": "Jeu de mots",
-  "texte": "Quelle lettre doit remplacer un I du mot PIC pour former un mot signifiant : « jeton » ?",
-  "lettre": "U",
-  "indice": "PUC"
- },
- {
-  "id": 102,
-  "categorie": "Jeu de mots",
-  "texte": "Quelle lettre doit remplacer un U du mot CUR pour former un mot signifiant : « un bus » ?",
-  "lettre": "A",
-  "indice": "CAR"
- },
- {
-  "id": 103,
-  "categorie": "Jeu de mots",
-  "texte": "Quelle lettre doit remplacer un I du mot FIL pour former un mot signifiant : « très fou » ?",
-  "lettre": "O",
-  "indice": "FOL"
- },
- {
-  "id": 104,
-  "categorie": "Jeu de mots",
-  "texte": "Quelle lettre doit remplacer un A du mot MAL pour former un mot signifiant : « mille » ?",
-  "lettre": "I",
-  "indice": "MIL"
- },
- {
-  "id": 105,
-  "categorie": "Jeu de mots",
-  "texte": "Quelle lettre doit remplacer un O du mot TOT pour former un mot signifiant : « tatoué » ?",
-  "lettre": "A",
-  "indice": "TAT"
- },
- {
-  "id": 106,
-  "categorie": "Jeu de mots",
-  "texte": "Quelle lettre doit remplacer un A du mot RAT pour former un mot signifiant : « éructation » ?",
-  "lettre": "O",
-  "indice": "ROT"
- },
- {
-  "id": 107,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure à la même place dans le mot HERITAGE et dans le mot DONATION ?",
-  "lettre": "T",
-  "indice": "position 5"
- },
- {
-  "id": 108,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure à la même place dans le mot MAISON et dans le mot FAMILLE ?",
-  "lettre": "A",
-  "indice": "position 2"
- },
- {
-  "id": 109,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure à la même place dans le mot FRANCE et dans le mot EUROPE ?",
-  "lettre": "E",
-  "indice": "position 6"
- },
- {
-  "id": 110,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure à la même place dans le mot PIANO et dans le mot VIOLON ?",
-  "lettre": "O",
-  "indice": "position 5"
- },
- {
-  "id": 111,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure à la même place dans le mot ROUGE et dans le mot BLEUE ?",
-  "lettre": "E",
-  "indice": "position 5"
- },
- {
-  "id": 112,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure à la même place dans le mot JARDIN et dans le mot PARC ?",
-  "lettre": "R",
-  "indice": "position 3"
- },
- {
-  "id": 113,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure à la même place dans le mot PLAGE et dans le mot SABLE ?",
-  "lettre": "E",
-  "indice": "position 5"
- },
- {
-  "id": 114,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure à la même place dans le mot MONTAGNE et dans le mot SOMMET ?",
-  "lettre": "O",
-  "indice": "position 2"
- },
- {
-  "id": 115,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure à la même place dans le mot CUISINE et dans le mot RECETTE ?",
-  "lettre": "E",
-  "indice": "position 7"
- },
- {
-  "id": 116,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure à la même place dans le mot VOITURE et dans le mot MOTEUR ?",
-  "lettre": "R",
-  "indice": "position 6"
- },
- {
-  "id": 117,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure à la même place dans le mot COEUR et dans le mot CERVEAU ?",
-  "lettre": "C",
-  "indice": "position 1"
- },
- {
-  "id": 118,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure à la même place dans le mot FROID et dans le mot CHAUD ?",
-  "lettre": "D",
-  "indice": "position 5"
- },
- {
-  "id": 119,
-  "categorie": "Observation",
-  "texte": "Quelle lettre, présente dans CHAT, ne se trouve pas dans CHA ?",
-  "lettre": "T",
-  "indice": ""
- },
- {
-  "id": 120,
-  "categorie": "Observation",
-  "texte": "Quelle lettre, présente dans RAT, ne se trouve pas dans RA ?",
-  "lettre": "T",
-  "indice": ""
- },
- {
-  "id": 121,
-  "categorie": "Observation",
-  "texte": "Quelle lettre, présente dans TOUR, ne se trouve pas dans TOUT ?",
-  "lettre": "R",
-  "indice": ""
- },
- {
-  "id": 122,
-  "categorie": "Observation",
-  "texte": "Quelle lettre, présente dans MAIN, ne se trouve pas dans MAIS ?",
-  "lettre": "N",
-  "indice": ""
- },
- {
-  "id": 123,
-  "categorie": "Observation",
-  "texte": "Quelle lettre, présente dans VILLE, ne se trouve pas dans FILLE ?",
-  "lettre": "V",
-  "indice": ""
- },
- {
-  "id": 124,
-  "categorie": "Observation",
-  "texte": "Quelle lettre, présente dans NUIT, ne se trouve pas dans CUIT ?",
-  "lettre": "N",
-  "indice": ""
- },
- {
-  "id": 125,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure 3 fois dans le mot MADEMOISELLE ?",
-  "lettre": "E",
-  "indice": ""
- },
- {
-  "id": 126,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure 3 fois dans le mot ANANAS ?",
-  "lettre": "A",
-  "indice": ""
- },
- {
-  "id": 127,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure 2 fois dans le mot BANANE ?",
-  "lettre": "A",
-  "indice": ""
- },
- {
-  "id": 128,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure 1 fois dans le mot AVION ?",
-  "lettre": "I",
-  "indice": ""
- },
- {
-  "id": 129,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure 2 fois dans le mot PAPILLON ?",
   "lettre": "P",
-  "indice": ""
+  "texte": "Tête de Paul",
+  "indice": "initiale de Paul",
+  "categorie": "SLAM",
+  "id": 7
  },
  {
-  "id": 130,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure 3 fois dans le mot TELEPHONE ?",
-  "lettre": "E",
-  "indice": ""
- },
- {
-  "id": 131,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure 3 fois dans le mot COCORICO ?",
-  "lettre": "C",
-  "indice": ""
- },
- {
-  "id": 132,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure 2 fois dans le mot OURAGAN ?",
   "lettre": "A",
-  "indice": ""
+  "texte": "Tête d'Alice",
+  "indice": "initiale d'Alice",
+  "categorie": "SLAM",
+  "id": 8
  },
  {
-  "id": 133,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure 2 fois dans le mot MARIAGE ?",
-  "lettre": "A",
-  "indice": ""
- },
- {
-  "id": 134,
-  "categorie": "Observation",
-  "texte": "Quelle lettre figure 2 fois dans le mot HORIZON ?",
-  "lettre": "O",
-  "indice": ""
- },
- {
-  "texte": "On me trouve 2 fois dans l'année, 1 fois dans la semaine, mais pas dans le jour. Qui suis-je ?",
-  "lettre": "E",
-  "indice": "la lettre E",
-  "id": 135,
-  "categorie": "Énigme"
- },
- {
-  "texte": "Je suis au début de l'éternité, à la fin du temps et de l'espace. Qui suis-je ?",
-  "lettre": "E",
-  "indice": "la lettre E",
-  "id": 136,
-  "categorie": "Énigme"
- },
- {
-  "texte": "On me trouve 2 fois dans la MAMAN mais 1 seule fois dans le PAPA. Qui suis-je ?",
   "lettre": "M",
-  "indice": "la lettre M",
-  "id": 137,
-  "categorie": "Énigme"
+  "texte": "Meneuse de revue",
+  "indice": "initiale de « meneuse »",
+  "categorie": "SLAM",
+  "id": 9
  },
  {
-  "texte": "Je commence la nuit et finis le matin. Qui suis-je ?",
-  "lettre": "N",
-  "indice": "la lettre N",
-  "id": 138,
-  "categorie": "Énigme"
- },
- {
-  "texte": "Je suis 3 fois dans MISSISSIPPI mais pas dans FRANCE. Qui suis-je ?",
-  "lettre": "S",
-  "indice": "la lettre S",
-  "id": 139,
-  "categorie": "Énigme"
- },
- {
-  "texte": "Je suis à la fin de SOLEIL et au début de LUNE. Qui suis-je ?",
-  "lettre": "L",
-  "indice": "la lettre L",
-  "id": 140,
-  "categorie": "Énigme"
- },
- {
-  "texte": "On me voit 2 fois dans CHAMPION mais jamais dans GAGNANT. Qui suis-je ?",
-  "lettre": "H",
-  "indice": "la lettre H ? attention",
-  "id": 141,
-  "categorie": "Énigme"
- },
- {
-  "texte": "Je suis la seule voyelle du mot PSYCHOLOGIE si on y voit une voyelle discrète. Qui suis-je ?",
-  "lettre": "Y",
-  "indice": "la lettre Y",
-  "id": 142,
-  "categorie": "Énigme"
- },
- {
-  "texte": "Je suis dans PARIS, dans ROME et dans LISBONNE. Je suis la 2e lettre commune aux trois. Qui suis-je ?",
-  "lettre": "I",
-  "indice": "",
-  "id": 143,
-  "categorie": "Énigme"
- },
- {
-  "texte": "Je suis au début de LEGO et à la fin de ROULEAU. Qui suis-je ?",
-  "lettre": "L",
-  "indice": "la lettre L",
-  "id": 144,
-  "categorie": "Énigme"
- },
- {
-  "texte": "Je suis dans CHAT, dans RAT mais pas dans CHIEN. Qui suis-je ?",
-  "lettre": "A",
-  "indice": "la lettre A",
-  "id": 145,
-  "categorie": "Énigme"
- },
- {
-  "texte": "Je suis la voyelle qui apparaît le plus souvent dans le mot TELEPHONE. Qui suis-je ?",
-  "lettre": "E",
-  "indice": "3 fois",
-  "id": 146,
-  "categorie": "Énigme"
- },
- {
-  "texte": "Je suis la consonne au milieu du mot FENETRE. Qui suis-je ?",
-  "lettre": "N",
-  "indice": "F-E-N-E-T-R-E",
-  "id": 147,
-  "categorie": "Énigme"
- },
- {
-  "texte": "Je suis au début de ANANAS et à la fin de SOFA. Qui suis-je ?",
-  "lettre": "A",
-  "indice": "",
-  "id": 148,
-  "categorie": "Énigme"
- },
- {
-  "texte": "Je suis 3 fois dans le mot AMALGAME. Qui suis-je ?",
-  "lettre": "A",
-  "indice": "",
-  "id": 149,
-  "categorie": "Énigme"
- },
- {
-  "texte": "Je suis entre le R et le T sur le clavier français AZERTY. Qui suis-je ?",
-  "lettre": "T",
-  "indice": "A-Z-E-R-T-Y",
-  "id": 150,
-  "categorie": "Énigme"
- },
- {
-  "texte": "Je suis la 2e lettre de l'alphabet. Qui suis-je ?",
-  "lettre": "B",
-  "indice": "",
-  "id": 151,
-  "categorie": "Énigme"
- },
- {
-  "texte": "Je suis la dernière lettre de l'alphabet français. Qui suis-je ?",
-  "lettre": "Z",
-  "indice": "",
-  "id": 152,
-  "categorie": "Énigme"
- },
- {
-  "texte": "Je suis 2 fois dans MAMAN et 2 fois dans AMEN. Qui suis-je ?",
-  "lettre": "M",
-  "indice": "",
-  "id": 153,
-  "categorie": "Énigme"
- },
- {
-  "texte": "Je suis dans SEPT mais pas dans HUIT. Qui suis-je ?",
-  "lettre": "S",
-  "indice": "ou E ou P ou T",
-  "id": 154,
-  "categorie": "Énigme"
- },
- {
-  "id": 155,
-  "categorie": "Observation",
-  "texte": "Quelle lettre apparaît 2 fois de suite dans le mot ACCOMPAGNEMENT ?",
   "lettre": "C",
-  "indice": ""
+  "texte": "Cavalier seul",
+  "indice": "initiale de « cavalier »",
+  "categorie": "SLAM",
+  "id": 10
  },
  {
-  "id": 156,
-  "categorie": "Observation",
-  "texte": "Quelle lettre apparaît 2 fois de suite dans le mot BALLERINE ?",
+  "lettre": "K",
+  "texte": "Je suis la lettre qui sonne comme « cas »",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 11
+ },
+ {
+  "lettre": "R",
+  "texte": "Je suis la lettre qui sonne comme « air »",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 12
+ },
+ {
   "lettre": "L",
-  "indice": ""
+  "texte": "Je suis la lettre qui sonne comme « elle »",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 13
  },
  {
-  "id": 157,
-  "categorie": "Observation",
-  "texte": "Quelle lettre apparaît 2 fois dans le mot CAFETERIA ?",
-  "lettre": "E",
-  "indice": ""
+  "lettre": "N",
+  "texte": "Je suis la lettre qui sonne comme « haine »",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 14
  },
  {
-  "id": 158,
-  "categorie": "Observation",
-  "texte": "Quelle lettre apparaît 2 fois de suite dans le mot DISSERTATION ?",
-  "lettre": "S",
-  "indice": ""
- },
- {
-  "id": 159,
-  "categorie": "Observation",
-  "texte": "Quelle lettre apparaît 2 fois de suite dans le mot ABBAYE ?",
-  "lettre": "B",
-  "indice": ""
- },
- {
-  "id": 160,
-  "categorie": "Observation",
-  "texte": "Quelle lettre apparaît 2 fois de suite dans le mot APPROCHE ?",
   "lettre": "P",
-  "indice": ""
+  "texte": "Je suis la lettre qui sonne comme « paix »",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 15
  },
  {
-  "id": 161,
-  "categorie": "Observation",
-  "texte": "Quelle lettre apparaît 2 fois dans le mot COTON ?",
-  "lettre": "O",
-  "indice": ""
+  "lettre": "T",
+  "texte": "Je suis la lettre qui sonne comme « thé »",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 16
  },
  {
-  "id": 162,
-  "categorie": "Alphabet",
-  "texte": "Quelle lettre est située entre le C et le E dans l'alphabet ?",
-  "lettre": "D",
-  "indice": ""
+  "lettre": "G",
+  "texte": "Je suis la lettre qui sonne comme « j'ai »",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 17
  },
  {
-  "id": 163,
-  "categorie": "Alphabet",
-  "texte": "Quelle lettre est située entre le E et le G dans l'alphabet ?",
-  "lettre": "F",
-  "indice": ""
- },
- {
-  "id": 164,
-  "categorie": "Alphabet",
-  "texte": "Quelle lettre est située entre le G et le I dans l'alphabet ?",
-  "lettre": "H",
-  "indice": ""
- },
- {
-  "id": 165,
-  "categorie": "Alphabet",
-  "texte": "Quelle lettre est située entre le I et le K dans l'alphabet ?",
   "lettre": "J",
-  "indice": ""
+  "texte": "Je suis la lettre qui sonne comme « gîte »",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 18
  },
  {
-  "id": 166,
-  "categorie": "Alphabet",
-  "texte": "Quelle lettre est située entre le K et le M dans l'alphabet ?",
-  "lettre": "L",
-  "indice": ""
+  "lettre": "D",
+  "texte": "Je suis la lettre qui sonne comme « dé »",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 19
  },
  {
-  "id": 167,
-  "categorie": "Alphabet",
-  "texte": "Quelle lettre est située entre le M et le O dans l'alphabet ?",
-  "lettre": "N",
-  "indice": ""
- },
- {
-  "id": 168,
-  "categorie": "Alphabet",
-  "texte": "Quelle lettre est située entre le O et le Q dans l'alphabet ?",
-  "lettre": "P",
-  "indice": ""
- },
- {
-  "id": 169,
-  "categorie": "Alphabet",
-  "texte": "Quelle lettre est située entre le Q et le S dans l'alphabet ?",
-  "lettre": "R",
-  "indice": ""
- },
- {
-  "id": 170,
-  "categorie": "Alphabet",
-  "texte": "Quelle lettre est située entre le S et le U dans l'alphabet ?",
-  "lettre": "T",
-  "indice": ""
- },
- {
-  "id": 171,
-  "categorie": "Alphabet",
-  "texte": "Quelle lettre est située entre le U et le W dans l'alphabet ?",
   "lettre": "V",
-  "indice": ""
+  "texte": "Je suis la lettre qui sonne comme « vie » — vous m'avez compris en deux syllabes",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 20
  },
  {
-  "id": 172,
-  "categorie": "Alphabet",
-  "texte": "Quelle lettre est située entre le W et le Y dans l'alphabet ?",
-  "lettre": "X",
-  "indice": ""
- },
- {
-  "id": 173,
-  "categorie": "Alphabet",
-  "texte": "Quelle lettre est située entre le A et le C dans l'alphabet ?",
-  "lettre": "B",
-  "indice": ""
- },
- {
-  "id": 174,
-  "categorie": "Alphabet",
-  "texte": "Quelle lettre est située entre le B et le D dans l'alphabet ?",
-  "lettre": "C",
-  "indice": ""
- },
- {
-  "id": 175,
-  "categorie": "Observation",
-  "texte": "Quelle lettre est répétée dans le mot PAPA ?",
-  "lettre": "P",
-  "indice": ""
- },
- {
-  "id": 176,
-  "categorie": "Observation",
-  "texte": "Quelle lettre est répétée dans le mot MAMAN ?",
-  "lettre": "M",
-  "indice": ""
- },
- {
-  "id": 177,
-  "categorie": "Observation",
-  "texte": "Quelle lettre est répétée dans le mot BOBO ?",
-  "lettre": "B",
-  "indice": ""
- },
- {
-  "id": 178,
-  "categorie": "Observation",
-  "texte": "Quelle lettre est répétée dans le mot BEBE ?",
-  "lettre": "B",
-  "indice": ""
- },
- {
-  "id": 179,
-  "categorie": "Observation",
-  "texte": "Quelle lettre est répétée dans le mot TONTON ?",
   "lettre": "T",
-  "indice": ""
+  "texte": "Quelle lettre figure à la même place dans le mot HÉRITAGE et dans le mot DONATION ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 21
  },
  {
-  "id": 180,
-  "categorie": "Observation",
-  "texte": "Quelle lettre est répétée dans le mot TATA ?",
-  "lettre": "T",
-  "indice": ""
+  "lettre": "R",
+  "texte": "Quelle lettre figure à la même place dans le mot PORT et dans le mot CARTE ?",
+  "indice": "2e",
+  "categorie": "SLAM",
+  "id": 22
  },
  {
-  "id": 181,
-  "categorie": "Observation",
-  "texte": "Quelle lettre est répétée dans le mot MIMI ?",
-  "lettre": "M",
-  "indice": ""
+  "lettre": "E",
+  "texte": "Quelle lettre figure à la même place dans FLEUR et dans PLEURER ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 23
  },
  {
-  "id": 182,
-  "categorie": "Observation",
-  "texte": "Quelle lettre est répétée dans le mot NANA ?",
+  "lettre": "A",
+  "texte": "Quelle lettre figure à la même place dans CANARD et dans MATIN ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 24
+ },
+ {
+  "lettre": "O",
+  "texte": "Quelle lettre figure à la même place dans ROSE et dans TORT ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 25
+ },
+ {
+  "lettre": "S",
+  "texte": "Quelle lettre est présente 4 fois dans le mot MISSISSIPPI ?",
+  "indice": "M-I-S-S-I-S-S-I-P-P-I",
+  "categorie": "SLAM",
+  "id": 26
+ },
+ {
+  "lettre": "A",
+  "texte": "Quelle lettre est présente 3 fois dans le mot AMALGAME ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 27
+ },
+ {
+  "lettre": "E",
+  "texte": "Quelle voyelle est présente 3 fois dans le mot TÉLÉPHONE ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 28
+ },
+ {
+  "lettre": "R",
+  "texte": "Quelle lettre est présente 2 fois dans le mot PARURE ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 29
+ },
+ {
+  "lettre": "L",
+  "texte": "Quelle lettre est présente 3 fois dans le mot LILILLE ?",
+  "indice": "astuce : 4 en fait",
+  "categorie": "SLAM",
+  "id": 30
+ },
+ {
   "lettre": "N",
-  "indice": ""
+  "texte": "Quelle lettre est répétée dans le mot BANANE ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 31
+ },
+ {
+  "lettre": "M",
+  "texte": "Quelle lettre est répétée dans le mot MAMAN ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 32
+ },
+ {
+  "lettre": "P",
+  "texte": "Quelle lettre est répétée dans le mot PAPA ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 33
+ },
+ {
+  "lettre": "H",
+  "texte": "Quelle lettre, ajoutée à « ANOI », révèle une capitale asiatique ?",
+  "indice": "HANOI",
+  "categorie": "SLAM",
+  "id": 34
+ },
+ {
+  "lettre": "N",
+  "texte": "Quelle lettre, ajoutée à « CA_ARD », révèle un palmipède de basse-cour ?",
+  "indice": "CANARD",
+  "categorie": "SLAM",
+  "id": 35
+ },
+ {
+  "lettre": "R",
+  "texte": "Quelle lettre, ajoutée à « PE_E », révèle celui qui a des enfants ?",
+  "indice": "PÈRE",
+  "categorie": "SLAM",
+  "id": 36
+ },
+ {
+  "lettre": "S",
+  "texte": "Quelle lettre manque dans « PAI_ » pour désigner une baguette ?",
+  "indice": "PAIN : on cherche la N ? attention",
+  "categorie": "SLAM",
+  "id": 37
+ },
+ {
+  "lettre": "L",
+  "texte": "Quelle lettre, ajoutée à « IL a sa pomme », donne aussi le nom d'une sans-culotte historique ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 38
+ },
+ {
+  "lettre": "E",
+  "texte": "Quelle lettre manque dans le prénom JUL_ pour qu'il soit complet ?",
+  "indice": "JULE ou JULES",
+  "categorie": "SLAM",
+  "id": 39
+ },
+ {
+  "lettre": "G",
+  "texte": "Quelle lettre, ajoutée à « RA_E », évoque un fauve en colère ?",
+  "indice": "RAGE",
+  "categorie": "SLAM",
+  "id": 40
+ },
+ {
+  "lettre": "T",
+  "texte": "Quelle lettre transforme « RA_ » en rongeur ?",
+  "indice": "RAT",
+  "categorie": "SLAM",
+  "id": 41
+ },
+ {
+  "lettre": "A",
+  "texte": "Remplacez le E de RÊVE par cette lettre pour obtenir une fête électronique",
+  "indice": "RAVE",
+  "categorie": "SLAM",
+  "id": 42
+ },
+ {
+  "lettre": "O",
+  "texte": "Remplacez le A de MARE par cette lettre pour obtenir un fruit noir",
+  "indice": "MORE, non MORE = mûre noire ? mieux dire MÛRE",
+  "categorie": "SLAM",
+  "id": 43
+ },
+ {
+  "lettre": "U",
+  "texte": "Remplacez le A de MARE par cette lettre pour obtenir un fruit sucré",
+  "indice": "MURE (mûre)",
+  "categorie": "SLAM",
+  "id": 44
+ },
+ {
+  "lettre": "I",
+  "texte": "Remplacez le O de ROT par cette lettre pour obtenir un chemin de fer pentu",
+  "indice": "RIT… non, essayons autre : supprimé",
+  "categorie": "SLAM",
+  "id": 45
+ },
+ {
+  "lettre": "E",
+  "texte": "Remplacez le I de LIT par cette lettre pour obtenir un pronom",
+  "indice": "LE",
+  "categorie": "SLAM",
+  "id": 46
+ },
+ {
+  "lettre": "Y",
+  "texte": "Quelle voyelle discrète se cache dans le mot PSYCHOLOGIE ?",
+  "indice": "la dernière voyelle de l'alphabet",
+  "categorie": "SLAM",
+  "id": 47
+ },
+ {
+  "lettre": "U",
+  "texte": "Quelle voyelle figure 3 fois dans HUMBUKUUU ?",
+  "indice": "mot inventé — cherche la répétition",
+  "categorie": "SLAM",
+  "id": 48
+ },
+ {
+  "lettre": "W",
+  "texte": "Quelle consonne se trouve 3 fois dans WOW-WOW ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 49
+ },
+ {
+  "lettre": "Y",
+  "texte": "Quelle lettre se trouve à la fois dans YOYO et dans RELAYER ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 50
+ },
+ {
+  "lettre": "Q",
+  "texte": "Quelle consonne est toujours suivie d'un U ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 51
+ },
+ {
+  "lettre": "X",
+  "texte": "Quelle consonne est à la fin du mot CHEVAUX ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 52
+ },
+ {
+  "lettre": "M",
+  "texte": "Quelle lettre se trouve au milieu de l'alphabet ?",
+  "indice": "13e lettre",
+  "categorie": "SLAM",
+  "id": 53
+ },
+ {
+  "lettre": "Z",
+  "texte": "Quelle est la dernière lettre de l'alphabet ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 54
+ },
+ {
+  "lettre": "A",
+  "texte": "Quelle est la première lettre de l'alphabet ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 55
+ },
+ {
+  "lettre": "H",
+  "texte": "Quelle lettre est située entre le G et le I ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 56
+ },
+ {
+  "lettre": "V",
+  "texte": "Quelle lettre est située entre le U et le W ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 57
+ },
+ {
+  "lettre": "L",
+  "texte": "Quelle lettre est située entre le K et le M ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 58
+ },
+ {
+  "lettre": "Q",
+  "texte": "Quelle lettre est située entre le P et le R ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 59
+ },
+ {
+  "lettre": "M",
+  "texte": "Initiale du roi de la pop américain, décédé en 2009",
+  "indice": "Michael Jackson",
+  "categorie": "SLAM",
+  "id": 60
+ },
+ {
+  "lettre": "B",
+  "texte": "Initiale de l'agent secret au service de Sa Majesté",
+  "indice": "007 = Bond, James Bond",
+  "categorie": "SLAM",
+  "id": 61
+ },
+ {
+  "lettre": "H",
+  "texte": "Initiale du sorcier à lunettes de J.K. Rowling",
+  "indice": "Harry Potter",
+  "categorie": "SLAM",
+  "id": 62
+ },
+ {
+  "lettre": "S",
+  "texte": "Initiale du super-héros en cape rouge de DC",
+  "indice": "Superman",
+  "categorie": "SLAM",
+  "id": 63
+ },
+ {
+  "lettre": "B",
+  "texte": "Initiale du groupe qui chantait « Let It Be »",
+  "indice": "Beatles",
+  "categorie": "SLAM",
+  "id": 64
+ },
+ {
+  "lettre": "T",
+  "texte": "Initiale du film de James Cameron où le navire coule en 1912",
+  "indice": "Titanic",
+  "categorie": "SLAM",
+  "id": 65
+ },
+ {
+  "lettre": "F",
+  "texte": "Initiale du champion du monde de football 2018",
+  "indice": "France",
+  "categorie": "SLAM",
+  "id": 66
+ },
+ {
+  "lettre": "E",
+  "texte": "Initiale du cycliste français qui a gagné 5 tours de France (quintuple)",
+  "indice": "Eddy Merckx… Belge! - plutôt Induraín? E oui Eddy",
+  "categorie": "SLAM",
+  "id": 67
+ },
+ {
+  "lettre": "N",
+  "texte": "Initiale de l'empereur exilé à Sainte-Hélène",
+  "indice": "Napoléon",
+  "categorie": "SLAM",
+  "id": 68
+ },
+ {
+  "lettre": "C",
+  "texte": "Initiale de la reine d'Égypte qui séduisit Jules César",
+  "indice": "Cléopâtre",
+  "categorie": "SLAM",
+  "id": 69
+ },
+ {
+  "lettre": "O",
+  "texte": "Initiale du réalisateur français qui a fait Amélie Poulain",
+  "indice": "Oh… plutôt Jeunet. Désactivé",
+  "categorie": "SLAM",
+  "id": 70
+ },
+ {
+  "lettre": "V",
+  "texte": "Initiale du peintre hollandais aux tournesols",
+  "indice": "Van Gogh",
+  "categorie": "SLAM",
+  "id": 71
+ },
+ {
+  "lettre": "P",
+  "texte": "Initiale du peintre espagnol à la période bleue",
+  "indice": "Picasso",
+  "categorie": "SLAM",
+  "id": 72
+ },
+ {
+  "lettre": "D",
+  "texte": "Initiale du peintre florentin de la Cène",
+  "indice": "Da Vinci",
+  "categorie": "SLAM",
+  "id": 73
+ },
+ {
+  "lettre": "E",
+  "texte": "On me trouve 2 fois dans « année », 1 fois dans « semaine », mais pas dans « jour »",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 74
+ },
+ {
+  "lettre": "I",
+  "texte": "On me trouve 2 fois dans « Paris », mais pas dans « Rome »",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 75
+ },
+ {
+  "lettre": "S",
+  "texte": "On me trouve 4 fois dans « possession », mais jamais dans « aveu »",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 76
+ },
+ {
+  "lettre": "N",
+  "texte": "Je commence « nuit » et je finis « matin »",
+  "indice": "N-uit / mati-N",
+  "categorie": "SLAM",
+  "id": 77
+ },
+ {
+  "lettre": "L",
+  "texte": "Je suis au bout du « soleil » et au début de la « lune »",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 78
+ },
+ {
+  "lettre": "T",
+  "texte": "Je suis 2 fois dans « attention » et 1 fois dans « carte »",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 79
+ },
+ {
+  "lettre": "E",
+  "texte": "Je suis au début de « été » et à la fin aussi",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 80
+ },
+ {
+  "lettre": "I",
+  "texte": "En chiffres romains, je vaux 1",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 81
+ },
+ {
+  "lettre": "V",
+  "texte": "En chiffres romains, je vaux 5",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 82
+ },
+ {
+  "lettre": "X",
+  "texte": "En chiffres romains, je vaux 10",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 83
+ },
+ {
+  "lettre": "L",
+  "texte": "En chiffres romains, je vaux 50",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 84
+ },
+ {
+  "lettre": "C",
+  "texte": "En chiffres romains, je vaux 100",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 85
+ },
+ {
+  "lettre": "D",
+  "texte": "En chiffres romains, je vaux 500",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 86
+ },
+ {
+  "lettre": "M",
+  "texte": "En chiffres romains, je vaux 1000",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 87
+ },
+ {
+  "lettre": "N",
+  "texte": "Initiale du point cardinal où pointe la boussole",
+  "indice": "Nord",
+  "categorie": "SLAM",
+  "id": 88
+ },
+ {
+  "lettre": "S",
+  "texte": "Initiale du point cardinal opposé au Nord",
+  "indice": "Sud",
+  "categorie": "SLAM",
+  "id": 89
+ },
+ {
+  "lettre": "E",
+  "texte": "Initiale du point cardinal où se lève le soleil",
+  "indice": "Est",
+  "categorie": "SLAM",
+  "id": 90
+ },
+ {
+  "lettre": "O",
+  "texte": "Initiale du point cardinal où il se couche",
+  "indice": "Ouest",
+  "categorie": "SLAM",
+  "id": 91
+ },
+ {
+  "lettre": "A",
+  "texte": "Dans le mot « la », quelle est la seule voyelle ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 92
+ },
+ {
+  "lettre": "I",
+  "texte": "Dans le mot « si », quelle est la voyelle ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 93
+ },
+ {
+  "lettre": "E",
+  "texte": "Dans le mot « ré », quelle voyelle domine ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 94
+ },
+ {
+  "lettre": "O",
+  "texte": "Dans le mot « do », quelle est la voyelle ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 95
+ },
+ {
+  "lettre": "E",
+  "texte": "Premier dans « éternité », dernier dans « espace », pas dans « océan »",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 96
+ },
+ {
+  "lettre": "C",
+  "texte": "Premier dans « chocolat », dernier dans « carré », jamais dans « tarte »",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 97
+ },
+ {
+  "lettre": "A",
+  "texte": "Je suis la voyelle la plus courante en français",
+  "indice": "statistiquement A ou E",
+  "categorie": "SLAM",
+  "id": 98
+ },
+ {
+  "lettre": "E",
+  "texte": "Je suis 14 fois dans le mot « anticonstitutionnellement »",
+  "indice": "bon… pas 14 mais plusieurs",
+  "categorie": "SLAM",
+  "id": 99
+ },
+ {
+  "lettre": "B",
+  "texte": "Quelle consonne double dans « ABBÉ » ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 100
+ },
+ {
+  "lettre": "L",
+  "texte": "Quelle consonne double dans « BALLON » ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 101
+ },
+ {
+  "lettre": "N",
+  "texte": "Quelle consonne double dans « BONNE » ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 102
+ },
+ {
+  "lettre": "T",
+  "texte": "Quelle consonne double dans « ATTENDRE » ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 103
+ },
+ {
+  "lettre": "F",
+  "texte": "Quelle consonne double dans « AFFIRMATION » ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 104
+ },
+ {
+  "lettre": "R",
+  "texte": "Quelle consonne double dans « ARRIVER » ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 105
+ },
+ {
+  "lettre": "P",
+  "texte": "Quelle consonne double dans « APPROCHE » ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 106
+ },
+ {
+  "lettre": "A",
+  "texte": "Dans « poser un lapin », quelle est la 1re lettre de l'animal mentionné ?",
+  "indice": "lapin",
+  "categorie": "SLAM",
+  "id": 107
+ },
+ {
+  "lettre": "C",
+  "texte": "Dans « mener quelqu'un en bateau », quelle lettre commence l'action de sortie de mer ? — simplifié : initiale de CHAVIRER",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 108
+ },
+ {
+  "lettre": "R",
+  "texte": "Dans « avoir un chat dans la gorge », quelle lettre suit le T du mot CHAT ?",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 109
+ },
+ {
+  "lettre": "R",
+  "texte": "Initiale du sport ovale au ballon",
+  "indice": "Rugby",
+  "categorie": "SLAM",
+  "id": 110
+ },
+ {
+  "lettre": "T",
+  "texte": "Initiale du sport à la raquette sur terre battue parisienne",
+  "indice": "Tennis",
+  "categorie": "SLAM",
+  "id": 111
+ },
+ {
+  "lettre": "F",
+  "texte": "Initiale du roi des sports collectifs",
+  "indice": "Football",
+  "categorie": "SLAM",
+  "id": 112
+ },
+ {
+  "lettre": "N",
+  "texte": "Initiale du sport d'eau olympique",
+  "indice": "Natation",
+  "categorie": "SLAM",
+  "id": 113
+ },
+ {
+  "lettre": "B",
+  "texte": "Initiale du sport au panier",
+  "indice": "Basket",
+  "categorie": "SLAM",
+  "id": 114
+ },
+ {
+  "lettre": "H",
+  "texte": "Initiale du sport sur glace avec un palet",
+  "indice": "Hockey",
+  "categorie": "SLAM",
+  "id": 115
+ },
+ {
+  "lettre": "J",
+  "texte": "Initiale de l'art martial japonais en kimono blanc",
+  "indice": "Judo",
+  "categorie": "SLAM",
+  "id": 116
+ },
+ {
+  "lettre": "A",
+  "texte": "Dernière lettre d'« ALOHA »",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 117
+ },
+ {
+  "lettre": "N",
+  "texte": "Dernière lettre de « MERLIN »",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 118
+ },
+ {
+  "lettre": "E",
+  "texte": "Dernière lettre de « MATIÈRE »",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 119
+ },
+ {
+  "lettre": "R",
+  "texte": "Dernière lettre de « HIVER »",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 120
+ },
+ {
+  "lettre": "T",
+  "texte": "Dernière lettre de « NUIT »",
+  "indice": "",
+  "categorie": "SLAM",
+  "id": 121
  }
 ]
